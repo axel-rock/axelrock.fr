@@ -1,0 +1,15 @@
+<footer id="footer">
+    <h2 class="center">Get in touch</h2>
+    <ul class="social">
+		{% if site.social.twitter %}
+		<li>
+			<a href="http://twitter.com/{{ site.social.twitter }}" class="icon-twitter" target="_blank"> Twitter</a>
+		</li>
+		{% endif %}
+		{% if site.social.instagram %}
+		<li>
+			<a href="http://instagram.com/{{ site.social.instagram }}" class="icon-instagram" target="_blank"> Instagram</a>
+		</li>
+		{% endif %}
+    </ul>
+</footer>
