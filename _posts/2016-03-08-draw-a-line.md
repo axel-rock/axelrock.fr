@@ -7,7 +7,7 @@ taxonomy:
 
 ---
 
-![path](path@2x.jpg){.image-zoom}
+![path](/assets/images/path@2x.jpg){: .image-zoom}
 
 > Dessinez-moi une flèche. Très bien, maintenant admettons que cette flèche représente votre vie. Indiquez-y les plus grands tournants, les points les plus marquants.
 

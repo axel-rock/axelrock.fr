@@ -70,7 +70,7 @@ Ils ne le savent pas, mais tu as aussi changé leur vie
 ## Merci pour Out There
 
 
-![Out There](out-there.jpg){.image-zoom}
+![Out There](/assets/images/out-there.jpg){: .image-zoom}
 
 Je n’aime pas jouer sur mobile. Ça doit être un syndrome de développeur qui a toujours un ordi à portée de main. 
 
@@ -90,7 +90,7 @@ Mais j’aime bien les blogs, et c’est notamment sur [le tien](http://fibretig
 
 ## Merci pour cette notification 
 
-![Friend Request](friend-request.jpg){.center}
+![Friend Request](/assets/images/friend-request.jpg){: .center}
 
 J’écoutais tes podcasts, je te suivais sur les réseaux sociaux comme des milliers de personnes.
 
@@ -123,7 +123,7 @@ Je t’ai pitché mon projet. Et tu as été franc et surtout tu m’as donné d
 
 Le salon a duré deux jours. Beaucoup de gens étaient intéressés par notre concept, mais personne d’autre ne nous a donné de conseils concrets.
 
-![Friend Request](carte-visite.jpg){.center}
+![Friend Request](/assets/images/carte-visite.jpg){: .center}
 
 ## Merci pour Snapchat
 

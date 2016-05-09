@@ -15,19 +15,19 @@ On a commencé à marcher sans but précis vers le sud de Södermalm, l’imposa
 
 <br/>
 
-![Vue sur la glace](sodermalm-1@2x.jpg){.image-zoom}
+![Vue sur la glace](/assets/images/sodermalm-1@2x.jpg){: .image-zoom}
 
 Quand il faut beau, les Suédois se retrouvent dehors. C’était le cas aujourd’hui. Des familles, des couples, des amis … tout le monde profite de cette lumière naturelle.
 
 Dans toute la moitié ouest de Stockholm, l’eau est douce. Elle gèle donc plus vite. Même après plusieurs semaines de températures positives en journée, la glace est toujours là. Mais elle n’est plus assez épaisse pour que les gens s’y aventurent à pied ou en patins.
 
-![Cabanes](sodermalm-2@2x.jpg){.image-zoom}
+![Cabanes](/assets/images/sodermalm-2@2x.jpg){: .image-zoom}
 
 En longeant l’île par le sud, c’est possible de rallier la pointe ouest à l’est par une promenade très agréable. Aucune voiture à l’horizon, du calme et de la verdure.
 
 Après quelques minutes de marche, nous avons fait une pause hot-dog. J’ai passé toute la commande en suédois. Je ne sais pas qui était le plus surpris entre le vendeur, mon acolyte ou moi-même.
 
-![Hammarby](sodermalm-3@2x.jpg){.image-zoom}
+![Hammarby](/assets/images/sodermalm-3@2x.jpg){: .image-zoom}
 
 Un peu avant d’arriver à la pointe est, nous avions vu sur la ville d’Hammarby et sa modeste station de ski. Mon coloc’, qui vient du Brésil était impressionné par la taille de la “montagne”. Quand on connait les montagnes françaises, c’est une remarque très drôle.
 
@@ -37,13 +37,13 @@ ____
 
 Après cette petite pause, c’était assez clair dans ma tête : j’allais compléter le tour de l’île pour rentrer. 
 
-![Nacka](sodermalm-4@2x.jpg){.image-zoom}
+![Nacka](/assets/images/sodermalm-4@2x.jpg){: .image-zoom}
 
 Je n’avais jamais parcouru les quelques centaines de mètres qui séparent le bureau de l’extrémité est de l’île. J’ai été surpris par ce bel hôtel en brique, resplendissant avec la lumière rasante de notre soleil nordique en cette fin d’après-midi. L’eau étant salée dans la moitié est de la ville, elle ne gèle pas facilement. Mais quelques petits blocs de glace dérivent quand même par endroit.
 
 La côte nord-est de l’île est inintéressante. C’est le point d’amarrage des bateaux de croisière, et l’embarcadère pour les voitures. J’avais eu l’occasion de faire cette partie à pied il y a 4 ans. J’aurais préféré passer par le centre, mais c’est mon coloc’ qui a eu le dernier mot. À cette heure, cette zone est plongée dans l’ombre, et le chemin se situe entre une route très fréquentée et d’immenses paquebots.
 
-![Muscle car](sodermalm-5@2x.jpg){.image-zoom}
+![Muscle car](/assets/images/sodermalm-5@2x.jpg){: .image-zoom}
 
 J’en ignore la raison, mais beaucoup de vieilles voitures américaines, et de gens vêtus comme des rockeurs montaient dans le bateau aujourd’hui.
 

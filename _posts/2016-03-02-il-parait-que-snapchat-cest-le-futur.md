@@ -29,7 +29,7 @@ Depuis quelques semaines ou quelques mois, beaucoup d’influenceurs, de précur
 
 Du coup, en bon influencé, **j’ai redonné sa chance au petit fantôme**. 
 
-![mon Snapcode : @imaxelrock](snapcode.png "mon Snapcode : @imaxelrock"){.center .image-zoom}
+![mon Snapcode : @imaxelrock](/assets/images/snapcode.png "mon Snapcode : @imaxelrock"){: .center .image-zoom}
 
 
 <p class="center">Évidemment, je ne pouvais pas parler de Snapchat sans vous lâcher mon Snapcode : @imaxelrock</p>

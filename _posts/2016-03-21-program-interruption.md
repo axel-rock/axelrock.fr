@@ -7,7 +7,7 @@ taxonomy:
     
 ---
 
-![Mire](test-card.jpg){.image-zoom}
+![Mire](/assets/images/test-card.jpg){: .image-zoom}
 
 Vous avez peut-être remarqué une baisse de qualité sur le blog ces quatre derniers jours.
 

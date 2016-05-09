@@ -19,7 +19,7 @@ J’ai commencé le boulot le lendemain de mon atterrissage. Plutôt rapide, mai
 
 J’ai eu l’agréable surprise de découvrir de magnifiques bureaux dans un des quartiers les plus sympa de la ville (apparemment). Je suis resté émerveillé pendant quelques jours par la déco. J’ai été triste d’apprendre que nous allions changer de locaux plus tard cet été, mais peut-être réussiront-ils à me surprendre de nouveau.
 
-![Old school bannerboy](un-mois-en-suede-1.jpg "Old school bannerboy"){.center .image-zoom}
+![Old school bannerboy](/assets/images/un-mois-en-suede-1.jpg "Old school bannerboy"){: .center .image-zoom}
 
 Autre agréable surprise : Un ordinateur tout neuf. Un iMac Retina qui plus est. C’est peut-être normal dans ce secteur d’activité, mais c’est la première fois de ma courte carrière qu’on me réserve un tel traitement.
 
@@ -29,7 +29,7 @@ L’ambiance est vraiment agréable. Je me suis senti à l’aise dès le premie
 
 Concernant le boulot en lui même, la mission est plutôt simple : l’entreprise est spécialisée dans le développement de bannières publicitaires pour le web. Les clients sont prestigieux, et j’ai la chance d’avoir des projets cools : accéléromètre ou encore un peu de 3D en JavaScript. Peut-être que ça ne vous parle pas, mais pour le moment ça m’éclate.
 
-![Balade dominicale à Gamla Stan](un-mois-en-suede-2.jpg "Balade dominicale à Gamla Stan"){.center .image-zoom}
+![Balade dominicale à Gamla Stan](/assets/images/un-mois-en-suede-2.jpg "Balade dominicale à Gamla Stan"){: .center .image-zoom}
 
 ## Le quotidien
 

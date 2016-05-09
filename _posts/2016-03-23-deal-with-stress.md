@@ -7,7 +7,7 @@ taxonomy:
     
 ---
 
-![Stress](stress@2x.jpg){.image-zoom}
+![Stress](/assets/images/stress@2x.jpg){: .image-zoom}
 
 Cette semaine, je bosse sur un gros projet.
 

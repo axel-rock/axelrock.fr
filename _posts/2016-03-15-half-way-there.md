@@ -7,7 +7,7 @@ taxonomy:
     
 ---
 
-![passion](passion@2x.jpg){.image-zoom}
+![passion](/assets/images/passion@2x.jpg){: .image-zoom}
 
 Aujourd’hui, on est le 15 mars, ça veut dire que suis à la moitié de [mon challenge](http://axelrock.fr/fr/blog/2016-03-01-en-mars-1-article-par-jour). L’occasion pour moi de faire un petit point.
 

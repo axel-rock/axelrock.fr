@@ -7,7 +7,7 @@ taxonomy:
     
 ---
 
-![Don't just stand there](stand@2x.jpg){.image-zoom}
+![Don't just stand there](/assets/images/stand@2x.jpg){: .image-zoom}
 
 **Qu’est-ce que j’ai vraiment envie de faire ? Qu’est-ce que j’ai vraiment envie d’avoir ? Qu’est-ce que j’ai vraiment envie de devenir ?**
 

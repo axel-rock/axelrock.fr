@@ -7,7 +7,7 @@ taxonomy:
     
 ---
 
-![Craft](craft@2x.jpg){.image-zoom}
+![Craft](/assets/images/craft@2x.jpg){: .image-zoom}
 
 Il y a une poignée de gens de l’internet que j’admire. Et j’ai trouvé leurs points communs : ils bossent dur, et ils apportent de la valeur aux gens.
 
@@ -48,7 +48,7 @@ Beaucoup de choses très utiles dans le monde du travail.
 ## Être maitre de sa vie / développement personnel
 
 Voilà quelque chose où je pense que la plupart des gens sont médiocres.
-Je n’ai pas peur de faire des choix difficiles. Je me moque de l’avis des gens fermé d’esprit.
+Je n’ai pas peur de faire des choix difficiles. Je me moque de l’avis des gens fermé d’esprit.
 
 Mais je ne serais jamais un expert en développement personnel. 
 

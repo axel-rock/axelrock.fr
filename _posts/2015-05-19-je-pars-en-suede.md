@@ -19,4 +19,4 @@ Suivre les aventures de [copains expatriés](http://www.becomeadinosaur.com) n�
 
 Encore un rêve qui se concrétise. J’ai hâte de vous raconter mes aventures quotidiennes.
 
-![Une vieille photo](je-pars-en-suede.jpg "Une vieille photo"){.center .image-zoom}
+![Une vieille photo](/assets/images/je-pars-en-suede.jpg "Une vieille photo"){: .center .image-zoom}

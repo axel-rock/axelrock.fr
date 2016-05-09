@@ -7,7 +7,7 @@ taxonomy:
 
 ---
 
-![Happy birthday](birthday.jpg){.center .image-zoom}
+![Happy birthday](/assets/images/birthday.jpg){: .center .image-zoom}
 
 Quand je regarde ce que j'ai accompli ces dernières années, je suis plutôt fier. Mais ce qui fait de moi quelqu'un de vraiment heureux, ce sont mes proches.
 

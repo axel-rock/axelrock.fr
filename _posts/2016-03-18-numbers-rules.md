@@ -7,7 +7,7 @@ taxonomy:
     
 ---
 
-![Numbers](numbers@2x.jpg){.image-zoom}
+![Numbers](/assets/images/numbers@2x.jpg){: .image-zoom}
 
 *Des likes, des followers, des vues, des abonnés, des visites, des notes…*
 

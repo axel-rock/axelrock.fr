@@ -7,7 +7,7 @@ taxonomy:
     
 ---
 
-![Japon](japan@2x.jpg){.image-zoom}
+![Japon](/assets/images/japan@2x.jpg){: .image-zoom}
 
 Il y a quelques mois, je vous montrais [la vidéo de mon voyage au Japon](http://axelrock.fr/fr/blog/2015-08-22-memories-of-japan).
 
@@ -35,7 +35,7 @@ J’espère vraiment que ce projet aboutira, et que je pourrais retourner au Jap
 
 <span></span>
 
-[Un cadeau d'anniversaire](http://axelrock.fr/fr/blog/2016-03-04-happy-birthday){.center}
+[Un cadeau d'anniversaire](http://axelrock.fr/fr/blog/2016-03-04-happy-birthday){: .center}
 
 
 **À demain.**

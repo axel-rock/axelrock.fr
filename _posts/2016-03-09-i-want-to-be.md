@@ -7,7 +7,7 @@ taxonomy:
 
 ---
 
-![cabin](cabin@2x.jpg){.image-zoom}
+![cabin](/assets/images/cabin@2x.jpg){: .image-zoom}
 
 - un citadin new-yorkais.
 - un ermite dans une cabane au bord d’un lac en Laponie.
@@ -29,12 +29,15 @@ taxonomy:
 À force d’écouter des récits de voyage, j’ai envie de vivre toutes ces aventures. 
 
 Ça sera mon tour du monde. Il s’étalera sur toute une vie.
+
 ___
+
 
 **À demain.**
+
 ___
 
-![new-york](new-york@2x.jpg){.image-zoom}
+![new-york](/assets/images/new-york@2x.jpg){: .image-zoom}
 
 Photos de mes autres vies par [Jamie MacPherson](https://unsplash.com/jmacpherson) et [Paweł Bukowski](https://unsplash.com/bukowski).
 

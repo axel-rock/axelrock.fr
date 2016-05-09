@@ -7,10 +7,24 @@
     <atom:link href="http://your-blog-url.example.com/feed.xml" rel="self" type="application/rss+xml" />
     
       <item>
+        <title>Welcome to Jekyll!</title>
+        
+        
+          <description>&lt;p&gt;You’ll find this post in your &lt;code&gt;_posts&lt;/code&gt; directory - edit this post and re-build (or run with the &lt;code&gt;-w&lt;/code&gt; switch) to see your changes!
+To add new posts, simply add a file in the &lt;code&gt;_posts&lt;/code&gt; directory that follows the convention: YYYY-MM-DD-name-of-post.ext.&lt;/p&gt;
+
+</description>
+        
+        <pubDate>Mon, 09 May 2016 12:18:00 +0200</pubDate>
+        <link>http://your-blog-url.example.com/welcome-to-jekyll/</link>
+        <guid isPermaLink="true">http://your-blog-url.example.com/welcome-to-jekyll/</guid>
+      </item>
+    
+      <item>
         <title>J&#39;ai réussi !</title>
         
         
-          <description>&lt;p&gt;&lt;img src=&quot;done@2x.jpg&quot; alt=&quot;Done&quot; /&gt;{.image-zoom}&lt;/p&gt;
+          <description>&lt;p&gt;&lt;img src=&quot;/assets/images/done@2x.jpg&quot; alt=&quot;Done&quot; class=&quot;image-zoom&quot; /&gt;&lt;/p&gt;
 
 </description>
         
@@ -23,7 +37,7 @@
         <title>Savoir ce que je veux</title>
         
         
-          <description>&lt;p&gt;&lt;img src=&quot;stand@2x.jpg&quot; alt=&quot;Don&#39;t just stand there&quot; /&gt;{.image-zoom}&lt;/p&gt;
+          <description>&lt;p&gt;&lt;img src=&quot;/assets/images/stand@2x.jpg&quot; alt=&quot;Don&#39;t just stand there&quot; class=&quot;image-zoom&quot; /&gt;&lt;/p&gt;
 
 </description>
         
@@ -49,7 +63,7 @@
         <title>L&#39;effet de la lumière</title>
         
         
-          <description>&lt;p&gt;&lt;img src=&quot;light@2x.jpg&quot; alt=&quot;Light&quot; /&gt;{.image-zoom}&lt;/p&gt;
+          <description>&lt;p&gt;&lt;img src=&quot;/assets/images/light@2x.jpg&quot; alt=&quot;Light&quot; class=&quot;image-zoom&quot; /&gt;&lt;/p&gt;
 
 </description>
         
@@ -62,7 +76,7 @@
         <title>Dofus</title>
         
         
-          <description>&lt;p&gt;&lt;img src=&quot;dofus@2x.png&quot; alt=&quot;Dofus&quot; /&gt;{.image-zoom}&lt;/p&gt;
+          <description>&lt;p&gt;&lt;img src=&quot;/assets/images/dofus@2x.png&quot; alt=&quot;Dofus&quot; class=&quot;image-zoom&quot; /&gt;&lt;/p&gt;
 
 </description>
         
@@ -75,7 +89,7 @@
         <title>Je suis bon à quoi ?</title>
         
         
-          <description>&lt;p&gt;&lt;img src=&quot;craft@2x.jpg&quot; alt=&quot;Craft&quot; /&gt;{.image-zoom}&lt;/p&gt;
+          <description>&lt;p&gt;&lt;img src=&quot;/assets/images/craft@2x.jpg&quot; alt=&quot;Craft&quot; class=&quot;image-zoom&quot; /&gt;&lt;/p&gt;
 
 </description>
         
@@ -101,7 +115,7 @@
         <title>Religion</title>
         
         
-          <description>&lt;p&gt;&lt;img src=&quot;church@2x.jpg&quot; alt=&quot;Church&quot; /&gt;{.image-zoom}&lt;/p&gt;
+          <description>&lt;p&gt;&lt;img src=&quot;/assets/images/church@2x.jpg&quot; alt=&quot;Church&quot; class=&quot;image-zoom&quot; /&gt;&lt;/p&gt;
 
 </description>
         
@@ -114,27 +128,13 @@
         <title>Gérer le stress</title>
         
         
-          <description>&lt;p&gt;&lt;img src=&quot;stress@2x.jpg&quot; alt=&quot;Stress&quot; /&gt;{.image-zoom}&lt;/p&gt;
+          <description>&lt;p&gt;&lt;img src=&quot;/assets/images/stress@2x.jpg&quot; alt=&quot;Stress&quot; class=&quot;image-zoom&quot; /&gt;&lt;/p&gt;
 
 </description>
         
         <pubDate>Wed, 23 Mar 2016 22:00:00 +0100</pubDate>
         <link>http://your-blog-url.example.com/deal-with-stress/</link>
         <guid isPermaLink="true">http://your-blog-url.example.com/deal-with-stress/</guid>
-      </item>
-    
-      <item>
-        <title>Encore un triste jour</title>
-        
-        
-          <description>&lt;p&gt;&lt;img src=&quot;bruxelles-1.jpg&quot; alt=&quot;Bruxelles 1&quot; /&gt;{.image-zoom}
-&lt;img src=&quot;bruxelles-2.jpg&quot; alt=&quot;Bruxelles 2&quot; /&gt;{.image-zoom}&lt;/p&gt;
-
-</description>
-        
-        <pubDate>Tue, 22 Mar 2016 22:00:00 +0100</pubDate>
-        <link>http://your-blog-url.example.com/another-sad-day/</link>
-        <guid isPermaLink="true">http://your-blog-url.example.com/another-sad-day/</guid>
       </item>
     
   </channel>

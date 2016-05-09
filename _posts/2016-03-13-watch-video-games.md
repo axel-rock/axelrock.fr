@@ -7,7 +7,7 @@ taxonomy:
     
 ---
 
-![firewatch](firewatch-1@2x.jpg){.image-zoom}
+![firewatch](/assets/images/firewatch-1@2x.jpg){: .image-zoom}
 
 ## Firewatch
 
@@ -21,7 +21,7 @@ J’ai tellement accroché qu’hier soir, j’ai regardé ce *let’s play* jus
 
 Je peux donc vous dire, sans y avoir joué, que Firewatch est une petite merveille. Ce n’est pas un jeu pour tout le monde. Il ne s’agit pas d’action, mais plutôt de vivre une histoire. Le jeu est presque secondaire. Mais c’est intense, humain, riche, et intéressant.
 
-![firewatch2](firewatch-2@2x.jpg){.image-zoom}
+![firewatch2](/assets/images/firewatch-2@2x.jpg){: .image-zoom}
 
 ## Regarder des jeux
 
@@ -39,7 +39,7 @@ Et c’est assez intéressant dans certains cas. Il y a quelques joueurs qui app
 
 Firewatch est le deuxième jeu que je regarde intégralement en vidéo sans y jouer. Le premier étant…
 
-![The Last of Us](the-last-of-us@2x.jpg){.image-zoom}
+![The Last of Us](/assets/images/the-last-of-us@2x.jpg){: .image-zoom}
 
 ## The Last of Us
 

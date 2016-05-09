@@ -7,7 +7,7 @@ taxonomy:
 
 ---
 
-![MacBook](macbook@2x.jpg){.image-zoom}
+![MacBook](/assets/images/macbook@2x.jpg){: .image-zoom}
 
 Je suis un consommateur curieux, minimaliste et esthète : j’aime essayer beaucoup de choses, mais je ne garde que celles qui me séduisent.
 

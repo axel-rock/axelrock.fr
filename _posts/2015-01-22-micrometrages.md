@@ -57,7 +57,7 @@ Avant, c’étaient des moins que rien, des gens obscurs aux passions obscures. 
 
 ### Préparatifs
 
-[![la journée commence au bar](micrometrages.jpg)](http://www.lense.fr/2014/12/18/lense-x-journal-du-geek-retour-sur-nos-micros-metrages/?target=_blank){.center}
+[![la journée commence au bar](/assets/images/micrometrages.jpg)](http://www.lense.fr/2014/12/18/lense-x-journal-du-geek-retour-sur-nos-micros-metrages/?target=_blank){: .center}
 
 
 RDV à **9h40** dans un café place de la Bastille. On a de la chance, le soleil est avec nous ce matin-là. Café, croissants, tirage au sort et distribution des smartphones. Ah oui, j’ai oublié de préciser un des enjeux de la journée : les vidéos doivent être tournées avec un smartphone Sony Xperia Z3.

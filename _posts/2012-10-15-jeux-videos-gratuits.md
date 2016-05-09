@@ -11,7 +11,7 @@ article publié en premier sur [Oeil Ventru](http://oeilventru.gobelins-annecy.c
 
 **De plus en plus d’acteurs proposent leurs jeux gratuitement. Récemment, on a même vu des mastodontes comme Electronic Arts changer de politique sur des jeux existants : la preuve d’un modèle économique viable ?**
 
-![Knight of the old republic](jeux-videos-gratuits.jpg){.center .image-zoom}
+![Knight of the old republic](/assets/images/jeux-videos-gratuits.jpg){: .center .image-zoom}
 
 Le « Free to Play », une expression nuancée pour parler de jeux vidéo auxquels l’on accède gratuitement. On estime qu’il représente aujourd’hui 17 % des bénéfices du domaine vidéoludique, alors que proposer un jeu gratuitement était impensable il y a 10 ans.
 

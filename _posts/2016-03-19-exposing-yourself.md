@@ -7,7 +7,7 @@ taxonomy:
     
 ---
 
-![Criticism](criticism@2x.jpg){.image-zoom}
+![Criticism](/assets/images/criticism@2x.jpg){: .image-zoom}
 
 Écrire ce blog, et partager des idées très personnelles, c’est un pari risqué. Ça peut plaire à certains, mais en rebuter beaucoup d’autres.
 

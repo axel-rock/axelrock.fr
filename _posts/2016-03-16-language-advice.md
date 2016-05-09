@@ -7,7 +7,7 @@ taxonomy:
     
 ---
 
-![bridge](bridge@2x.jpg){.image-zoom}
+![bridge](/assets/images/bridge@2x.jpg){: .image-zoom}
 
 On me dit souvent que j’ai un très bon niveau d’anglais… pour un français.
 

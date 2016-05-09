@@ -19,7 +19,7 @@ J’adore le groupe Linkin Park depuis plus de 10 ans. Et ils ont toujours été
 
 **Les albums sont des oeuvres à part entière, et pas seulement des listes de morceaux.**
 
-![Minutes to Midnight](minutes-to-midnight.jpg){.image-zoom}
+![Minutes to Midnight](/assets/images/minutes-to-midnight.jpg){: .image-zoom}
 
 ## Les playlists
 
@@ -33,7 +33,7 @@ Quand mon téléphone a enchainé avec un artiste différent, ça a complètemen
 
 Inconsciemment, j’étais prêt à écouter *Doin’ It Right*, le morceau suivant dans l'album. C’était comme être coupé au milieu d’une bonne histoire. 
 
-![Random Access Memories](random-access-memories.jpg){.image-zoom}
+![Random Access Memories](/assets/images/random-access-memories.jpg){: .image-zoom}
 
 ## L'avenir des albums
 

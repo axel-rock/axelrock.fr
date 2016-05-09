@@ -7,7 +7,7 @@ taxonomy:
 
 ---
 
-![waterfall](waterfall@2x.jpg){.image-zoom}
+![waterfall](/assets/images/waterfall@2x.jpg){: .image-zoom}
 
 Cet article devait s’appeler “Je ne crois pas au bonheur”. Mais j’ai trouvé plus juste de dire que je ne le cherche pas.
 
@@ -34,7 +34,7 @@ Beaucoup de personnes qui me connaissent pensent que je suis heureux. Ils n’on
 Par exemple, si j’ai décidé de venir vivre en Suède, ce n’est pas parce que j’y cherchais le bonheur. Ni l’argent ni l’amour d’ailleurs. Je suis venu parce que c’était à mes yeux la meilleure décision pour ne pas avoir de regrets. Je pourrais rentrer en France maintenant, je serais en paix avec moi-même.
 
 Aussi, j’évite les dettes autant que possible. Les dettes matérielles comme les dettes morales. Ça ne me gène pas de donner, et souvent je me fiche de recevoir en retour. Mais j'ai du mal à interagir avec quelqu’un si je considère que j’ai pris plus que je n’ai donné. 
-*On me dit dans l’oreillette que je viens de décrire le concept du karma.*
+*On me dit dans l’oreillette que je viens de décrire le concept du karma.*
 ____
 
 Les gens devraient se sur focaliser sur ces choses-là, plutôt que de se laisser ronger par le mal-être et espérer que le bonheur leur tombe dessus.

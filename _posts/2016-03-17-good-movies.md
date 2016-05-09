@@ -35,7 +35,7 @@ C’est un film que j’aborde à chaque fois que je parle de cinéma avec quelq
 
 ## [Alabama Monroe](http://www.senscritique.com/film/Alabama_Monroe/8176466?target=_blank)
 
-![Alabama Monroe](alabama-monroe@2x.jpg){.image-zoom}
+![Alabama Monroe](/assets/images/alabama-monroe@2x.jpg){: .image-zoom}
 
 Celui-là, j’aurais du mal à le regarder une fois de plus. Pourtant, c’est aussi un très bon film.
 
@@ -49,11 +49,11 @@ La seule raison pour laquelle je ne souhaite pas forcément re-revoir ce film (q
 
 Et mes amis sont unanimes à ce sujet : 
 
-![Alabama Monroe Rating](alabama-monroe-rating.jpg){.center}
+![Alabama Monroe Rating](/assets/images/alabama-monroe-rating.jpg){: .center}
 
 ## [I Origins](http://www.senscritique.com/film/I_Origins/10405795?target=_blank)
 
-![I Origins](i-origins@2x.jpg){.image-zoom}
+![I Origins](/assets/images/i-origins@2x.jpg){: .image-zoom}
 
 J’ai vu *I Origins* il y a quelques jours. 
 
@@ -67,7 +67,7 @@ Si jamais vous êtes d’humeur à regarder un film marquant, lancez-vous.
 
 ## [Les Bêtes du Sud Sauvage](http://www.senscritique.com/film/Les_Betes_du_Sud_Sauvage/396316?target=_blank)
 
-![Beasts of the Southern Wild](beasts-southern-wild@2x.jpg){.image-zoom}
+![Beasts of the Southern Wild](/assets/images/beasts-southern-wild@2x.jpg){: .image-zoom}
 
 Rien que de voir, rien que d’entendre le trailer lors de la rédaction de cet article, je suis fébrile. Sérieusement.
 
@@ -77,7 +77,7 @@ Pourtant il ne s’agit que de la vision onirique du monde d’une petite fille 
 
 Si comme mes amis et moi vous avez un cœur, vous devez regarder ce film.
 
-![Beasts of the Southern Wild Rating](beasts-southern-wild-rating.jpg){.center}
+![Beasts of the Southern Wild Rating](/assets/images/beasts-southern-wild-rating.jpg){: .center}
 
 <iframe width="520" height="293" src="https://www.youtube.com/embed/ZF7i2n5NXLo?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
 ____
