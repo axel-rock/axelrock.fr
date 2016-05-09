@@ -10,7 +10,7 @@
         <title>J&#39;ai réussi !</title>
         
         
-          <description>&lt;p&gt;&lt;img src=&quot;/img/i-made-it.jpg&quot; alt=&quot;Done&quot; class=&quot;image-zoom&quot; /&gt;&lt;/p&gt;
+          <description>&lt;p&gt;&lt;img src=&quot;done@2x.jpg&quot; alt=&quot;Done&quot; /&gt;{.image-zoom}&lt;/p&gt;
 
 </description>
         
@@ -20,29 +20,121 @@
       </item>
     
       <item>
-        <title>Welcome to Jekyll!</title>
+        <title>Savoir ce que je veux</title>
         
         
-          <description>&lt;p&gt;You’ll find this post in your &lt;code&gt;_posts&lt;/code&gt; directory - edit this post and re-build (or run with the &lt;code&gt;-w&lt;/code&gt; switch) to see your changes!
-To add new posts, simply add a file in the &lt;code&gt;_posts&lt;/code&gt; directory that follows the convention: YYYY-MM-DD-name-of-post.ext.&lt;/p&gt;
+          <description>&lt;p&gt;&lt;img src=&quot;stand@2x.jpg&quot; alt=&quot;Don&#39;t just stand there&quot; /&gt;{.image-zoom}&lt;/p&gt;
 
 </description>
         
-        <pubDate>Sun, 10 Nov 2013 11:18:00 +0100</pubDate>
-        <link>http://your-blog-url.example.com/welcome-to-jekyll/</link>
-        <guid isPermaLink="true">http://your-blog-url.example.com/welcome-to-jekyll/</guid>
+        <pubDate>Wed, 30 Mar 2016 22:00:00 +0200</pubDate>
+        <link>http://your-blog-url.example.com/what-i-want-to-do/</link>
+        <guid isPermaLink="true">http://your-blog-url.example.com/what-i-want-to-do/</guid>
       </item>
     
       <item>
-        <title>Reight 1.0</title>
+        <title>A day in my life</title>
         
         
-          <description>&lt;p&gt;Enfin du neuf ! Je me suis décidé à mettre en ligne cette première version de mon “Blogfolio”. Ce n’est pas parfait, mais c’est utilisable. Prochaines étapes : correction de bugs, amélioration du graphisme, réduction des temps de chargement … Je vais faire ça doucement, et m’occuper du contenu en parallèle. C’est assez sobre, et c’est voulu. Des photos viendront bientôt égayer l’ensemble normalement. Et vous, qu’en pensez-vous ? Votre avis m’intéresse !&lt;/p&gt;
+          <description>&lt;p&gt;Pour changer, j’ai décidé de filmer ma journée.&lt;/p&gt;
+
 </description>
         
-        <pubDate>Mon, 30 Jan 2012 23:02:00 +0100</pubDate>
-        <link>http://your-blog-url.example.com/reight-un-point-zero/</link>
-        <guid isPermaLink="true">http://your-blog-url.example.com/reight-un-point-zero/</guid>
+        <pubDate>Tue, 29 Mar 2016 22:00:00 +0200</pubDate>
+        <link>http://your-blog-url.example.com/a-day-in-my-life/</link>
+        <guid isPermaLink="true">http://your-blog-url.example.com/a-day-in-my-life/</guid>
+      </item>
+    
+      <item>
+        <title>L&#39;effet de la lumière</title>
+        
+        
+          <description>&lt;p&gt;&lt;img src=&quot;light@2x.jpg&quot; alt=&quot;Light&quot; /&gt;{.image-zoom}&lt;/p&gt;
+
+</description>
+        
+        <pubDate>Mon, 28 Mar 2016 22:00:00 +0200</pubDate>
+        <link>http://your-blog-url.example.com/light/</link>
+        <guid isPermaLink="true">http://your-blog-url.example.com/light/</guid>
+      </item>
+    
+      <item>
+        <title>Dofus</title>
+        
+        
+          <description>&lt;p&gt;&lt;img src=&quot;dofus@2x.png&quot; alt=&quot;Dofus&quot; /&gt;{.image-zoom}&lt;/p&gt;
+
+</description>
+        
+        <pubDate>Sun, 27 Mar 2016 22:00:00 +0200</pubDate>
+        <link>http://your-blog-url.example.com/dofus/</link>
+        <guid isPermaLink="true">http://your-blog-url.example.com/dofus/</guid>
+      </item>
+    
+      <item>
+        <title>Je suis bon à quoi ?</title>
+        
+        
+          <description>&lt;p&gt;&lt;img src=&quot;craft@2x.jpg&quot; alt=&quot;Craft&quot; /&gt;{.image-zoom}&lt;/p&gt;
+
+</description>
+        
+        <pubDate>Sat, 26 Mar 2016 22:00:00 +0100</pubDate>
+        <link>http://your-blog-url.example.com/what-am-i-good-at/</link>
+        <guid isPermaLink="true">http://your-blog-url.example.com/what-am-i-good-at/</guid>
+      </item>
+    
+      <item>
+        <title>Précieuses photos</title>
+        
+        
+          <description>&lt;p&gt;Quand on était gamin, ma maman prenait beaucoup de photos. Ses préférées allaient dans des albums, et toutes les autres dans des petites boites en plastiques (je crois que ce sont des boîtes de couches).&lt;/p&gt;
+
+</description>
+        
+        <pubDate>Fri, 25 Mar 2016 22:00:00 +0100</pubDate>
+        <link>http://your-blog-url.example.com/valuable-pictures/</link>
+        <guid isPermaLink="true">http://your-blog-url.example.com/valuable-pictures/</guid>
+      </item>
+    
+      <item>
+        <title>Religion</title>
+        
+        
+          <description>&lt;p&gt;&lt;img src=&quot;church@2x.jpg&quot; alt=&quot;Church&quot; /&gt;{.image-zoom}&lt;/p&gt;
+
+</description>
+        
+        <pubDate>Thu, 24 Mar 2016 22:00:00 +0100</pubDate>
+        <link>http://your-blog-url.example.com/religion/</link>
+        <guid isPermaLink="true">http://your-blog-url.example.com/religion/</guid>
+      </item>
+    
+      <item>
+        <title>Gérer le stress</title>
+        
+        
+          <description>&lt;p&gt;&lt;img src=&quot;stress@2x.jpg&quot; alt=&quot;Stress&quot; /&gt;{.image-zoom}&lt;/p&gt;
+
+</description>
+        
+        <pubDate>Wed, 23 Mar 2016 22:00:00 +0100</pubDate>
+        <link>http://your-blog-url.example.com/deal-with-stress/</link>
+        <guid isPermaLink="true">http://your-blog-url.example.com/deal-with-stress/</guid>
+      </item>
+    
+      <item>
+        <title>Encore un triste jour</title>
+        
+        
+          <description>&lt;p&gt;&lt;img src=&quot;bruxelles-1.jpg&quot; alt=&quot;Bruxelles 1&quot; /&gt;{.image-zoom}
+&lt;img src=&quot;bruxelles-2.jpg&quot; alt=&quot;Bruxelles 2&quot; /&gt;{.image-zoom}&lt;/p&gt;
+
+</description>
+        
+        <pubDate>Tue, 22 Mar 2016 22:00:00 +0100</pubDate>
+        <link>http://your-blog-url.example.com/another-sad-day/</link>
+        <guid isPermaLink="true">http://your-blog-url.example.com/another-sad-day/</guid>
       </item>
     
   </channel>
