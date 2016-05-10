@@ -31,7 +31,7 @@ Mais avec le passage au numérique, la photo ne coute presque plus rien. Certes,
 
 Il n’y a plus besoin d’une occasion pour immortaliser un moment. Depuis que j’habite en Suède, je m’efforce de prendre plein de petits détails de mon quotidien. J’imagine que ça me fera très plaisir de revoir tout ça dans quelques années.
 
-Je songe aussi à me forcer à prendre une photo, voir une vidéo par jour. Ça pourrait par exemple me permettre de [faire comme mon copain Simon il y a 4 ans](https://vimeo.com/39660869?target=_blank). 
+Je songe aussi à me forcer à prendre une photo, voir une vidéo par jour. Ça pourrait par exemple me permettre de [faire comme mon copain Simon il y a 4 ans](https://vimeo.com/39660869){: target="_blank"}. 
 
 ## Technique vs spontanéité
 
@@ -75,7 +75,7 @@ Prendre des photos, c’est bien. Mais si elles ne restent pas perdues sur un di
 
 La première chose, c’est de faire attention à la manière de les stocker. Pendant des années, j’avais toutes mes photos sur un disque dur externe. Quand j’y pense maintenant, c’est une très mauvaise idée. Si j’avais abimé ou perdu ce disque dur, j’aurais perdu des années de souvenirs.
 
-![iCloud](/assets/images/icloud@2x.jpg)
+![iCloud](/assets/images/icloud.jpg){: srcset="/assets/images/icloud@2x.jpg 2x" .center}
 
 Depuis quelques mois, j’ai pris un hébergement iCloud. Pour 3€ par mois, je peux stocker 200go sur les serveurs d’Apple. Les photos que je prends avec mon iPhone sont automatiquement envoyées là-bas, et j’ai accès en permanence à plus de 9000 photos et vidéos. Plutôt cool. Et pour moins de 40 euros par an, cette solution est beaucoup plus pérenne qu’un disque dur. J’ai du mal à croire qu’Apple puisse fermer son service du jour au lendemain. Et dans le pire des cas, j’utilise toujours ce disque dur.
 

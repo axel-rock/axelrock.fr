@@ -7,8 +7,6 @@ taxonomy:
 
 ---
 
-*This article is in French. If you are interested to read this article or the following one in English, please drop me a line.*
-
 Ça y est, ça fait un mois que j’ai débarqué en Suède. Parfois j’ai l’impression que je suis arrivé la veille, mais à d’autres moments j’oublie que j’ai vécu ailleurs. C’est une drôle d’impression.
 
 Mais laisse-moi te raconter un peu mes premiers pas d’expatrié.

@@ -27,9 +27,13 @@ Si j’adore autant la boite, c’est surtout pour l’ambiance. Je reste plus s
 
 <p class="center">Oui. C'est une Harley. Dans le bureau.</p>
 
+<br/>
+
 ![notre moyen de locomotion officiel](/assets/images/skate@2x.jpg){: .image-zoom}
 
 <p class="center">Le skate : notre moyen de locomotion officiel.</p>
+
+<br/>
 
 ## Nouveau logement
 

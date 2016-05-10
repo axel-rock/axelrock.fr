@@ -19,6 +19,7 @@ Voici la liste des sujets :
 
 **L'écriture se raccourcit**
 Du livre, à article, au post de blog, au statut Facebook, au tweet, au « Yo ! », notre communication se rétrécit, mais c’est pour le mieux
+
 > C'est Lâm qui s'est occupé de celui là
 
 **Le smartphone remplace de plus en plus d’objets**
@@ -26,6 +27,7 @@ Chaque année, le smartphone a remplacé de plus en plus d’objets : téléphon
 
 **SELFIE**
 Le selfie est devenu le type de photo numéro 1 depuis 4 ans. Quitte à se mettre en travers de la vue ?
+
 > J'ai finalement pris ce thème
 
 **Les jeux sont de plus en plus beaux... Avant de la rejouer rétro**
@@ -51,13 +53,14 @@ Depuis que le savoir universel est accessible à tout, est-il encore nécessaire
 
 **Du geek au geek chic**
 Avant, c’étaient des moins que rien, des gens obscurs aux passions obscures. Désormais, les geeks sont aussi courus que les skaters ! Mais est-ce vraiment ce qu’ils veulent ?
+
 > Celui de [Anh](https://twitter.com/neoangel), fondateur du Journal du Geek
 
 ## Déroulement de la journée
 
 ### Préparatifs
 
-[![la journée commence au bar](/assets/images/micrometrages.jpg)](http://www.lense.fr/2014/12/18/lense-x-journal-du-geek-retour-sur-nos-micros-metrages/?target=_blank){: .center}
+[![la journée commence au bar](/assets/images/micrometrages.jpg)](http://www.lense.fr/2014/12/18/lense-x-journal-du-geek-retour-sur-nos-micros-metrages/){: target="_blank"}{: .center}
 
 
 RDV à **9h40** dans un café place de la Bastille. On a de la chance, le soleil est avec nous ce matin-là. Café, croissants, tirage au sort et distribution des smartphones. Ah oui, j’ai oublié de préciser un des enjeux de la journée : les vidéos doivent être tournées avec un smartphone Sony Xperia Z3.

@@ -2,6 +2,8 @@ name: Your New Jekyll Site
 description: Blogging about stuffs
 meta_description: "Your New Jekyll Site, Blogging about stuffs"
 
+permalink:       /:title/
+
 aboutPage: true
 
 markdown: kramdown
@@ -23,10 +25,17 @@ author:         'Your Name'
 authorTwitter:  'YourTwitterUsername'
 
 social: 
-    twitter:    'nineties_panda'
-    instagram:  'axel.rock'
-
-permalink:       /:title/
+    twitter:        'nineties_panda'
+    instagram:      'axel.rock'
+    mail:           'axel@rock.bzh'
+    # github:         'axel-rock'
+    # facebook:       'axel.rock.reight'
+    # stackoverflow:  'http://stackoverflow.com/users/2075621/axel-rock'
+    # slack:          'bannerboy.slack.com'
+    # youtube:        'axelrock'
+    # codepen:        'axelrock'
+    # apple:          'axelrock'
+    # medium:         'axelrock'
 
 defaults:
     -
@@ -47,3 +56,9 @@ defaults:
             type: drafts
         values:
             layout: post
+
+# SCSS
+
+sass:
+  sass_dir: _sass
+  style: :compressed

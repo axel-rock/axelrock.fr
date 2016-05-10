@@ -7,7 +7,7 @@ taxonomy:
 
 ---
 
-article publié en premier sur [Oeil Ventru](http://oeilventru.gobelins-annecy.com/2012/10/15/jeux-videos-le-gratuit-un-business-lucratif/?target=_blank)
+article publié en premier sur [Oeil Ventru](http://oeilventru.gobelins-annecy.com/2012/10/15/jeux-videos-le-gratuit-un-business-lucratif/){: target="_blank"}
 
 **De plus en plus d’acteurs proposent leurs jeux gratuitement. Récemment, on a même vu des mastodontes comme Electronic Arts changer de politique sur des jeux existants : la preuve d’un modèle économique viable ?**
 

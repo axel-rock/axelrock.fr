@@ -27,7 +27,7 @@ Priorité à la vitesse. J’ai donc rayé les CMS utilisant des bases de donné
 
 Quitte à changer le moteur du site, j’ai aussi cherché quelque chose qui me permette de bloguer dans plusieurs langues.
 
-Mon Lead Tech à la boite a récemment mis en place un wiki avec [Grav](https://getgrav.org?target=_blank). N’ayant pas vraiment besoin d’une interface d’admin, j’ai opté pour cet outil. 
+Mon Lead Tech à la boite a récemment mis en place un wiki avec [Grav](https://getgrav.org){: target="_blank"}. N’ayant pas vraiment besoin d’une interface d’admin, j’ai opté pour cet outil. 
 
 L’installation s’est faite sans trop de soucis, et j’ai passé tout mon week-end à migrer l’ancien blog vers celui-ci.
 

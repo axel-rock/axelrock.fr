@@ -8,9 +8,7 @@ date:   2015-07-12 16:32
 Il y a beaucoup de choses que j’aimerais dire, mais je n’ose pas. Du coup, j’ai décidé de faire un article digne d’un Skyblog d’une élève de CM2. C’est bien la première fois que je publie quelque chose dont je redoute la lecture.
 
 * **Adrien** : Tu es un homme à part dans mon cercle d’amis. Ton insouciance m’émerveille.
-* **Carolyn** : Deux choses.
-	* Personne ne m’a offert de cadeaux qui m’ont autant fait plaisir. 
-	* J’ai l’impression que tu me comprends mieux que je ne me comprends moi-même. En fait, je pense que tu es juste infiniment attentionnée.
+* **Carolyn** : Personne ne m’a offert de cadeaux qui m’ont autant fait plaisir. J’ai l’impression que tu me comprends mieux que je ne me comprends moi-même. En fait, je pense que tu es juste infiniment attentionnée.
 * **Corentin** : Tu devrais vraiment essayer de voir le bon côté des choses.
 * **Damien** : Il faut qu’on s’appelle, ça fait plus 6 mois que c’est marqué dans mes rappels.
 * **Fibre** : Tu es bon. Très bon.

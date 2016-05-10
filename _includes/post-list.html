@@ -1,14 +1,26 @@
 <ul id="post-list">
     {% for post in paginator.posts %}
         <li>
-
+            {% include date.html date=post.date %}
         	<!-- {% if post.cover %}
 			<a href="{{ site.baseurl }}{{ post.url | remove_first: '/' }}">
 				<img src="{{ site.baseurl }}img/{{ post.cover }}" />
 			</a>
         	{% endif %} -->
-        	<aside class="dates">{{ post.date | date:"%b %d" }}</aside>
-            <a href="{{ site.baseurl }}{{ post.url | remove_first: '/' }}">{{ post.title }} <h2>{{ post.description }}</h2></a>
+            {% capture current_year %}{{ site.time | date: "%Y"}}{% endcapture %}
+            {% if year == current_year %}
+            <aside class="dates">{{ day }}{{ sup }} {{ month }}</aside>
+            {% else %}
+        	<aside class="dates">{{ post.date | date: "%d.%m.%y" }}</aside>
+            {% endif %}
+            <a href="{{ site.baseurl }}{{ post.url | remove_first: '/' }}">
+                {{ post.title }} 
+                {% if post.taxonomy.tag %}
+                <h2>{{ post.taxonomy.tag | join: ' / ' }}</h2>
+                {% endif %}
+            </a>
+
+            <!-- <a href="{{ post.url }}">Lire la suite</a> -->
         </li>
     {% endfor %}
 </ul>

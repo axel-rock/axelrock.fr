@@ -79,4 +79,4 @@ Une fois de plus, si vous avez apprécié, ou si vous avez des remarques, envoye
 
 **À demain**
 
-Photos appétissantes par [Sambazon](https://unsplash.com/sambazon?target=_blank), [Monstruo Estudio](https://unsplash.com/monstruoestudio?target=_blank) et [Brooke Cagle](https://unsplash.com/brookecagle?target=_blank)
+Photos appétissantes par [Sambazon](https://unsplash.com/sambazon){: target="_blank"}, [Monstruo Estudio](https://unsplash.com/monstruoestudio){: target="_blank"} et [Brooke Cagle](https://unsplash.com/brookecagle){: target="_blank"}

@@ -11,7 +11,7 @@ Aujourd’hui, je vous partage quelques films coup de coeur, mais pas forcément
 
 Attention cependant, on est loin des blockbusters et des films-pizza. Mais si vous êtes un minimum curieux et ouvert d’esprit, vous pourriez apprécier ces petites pépites.
 
-## [The Frame](http://www.senscritique.com/film/The_Frame/10778889?target=_blank)
+## [The Frame](http://www.senscritique.com/film/The_Frame/10778889){: target="_blank"}
 
 *The Frame* est un film étrange, mais qui vaut le détour. Il marque pour son histoire et sa technique.
 
@@ -21,7 +21,7 @@ J’ai adoré le trailer pour le montage et la musique, alors qu’en général,
 
 <br/>
 
-## [The Man from Earth](http://www.senscritique.com/film/The_Man_from_Earth/365496?target=_blank)
+## [The Man from Earth](http://www.senscritique.com/film/The_Man_from_Earth/365496){: target="_blank"}
 
 Voilà un film captivant. Très peu d’infos sur le Net, hormis ce pitch :
 
@@ -33,7 +33,7 @@ C’est un film que j’aborde à chaque fois que je parle de cinéma avec quelq
 
 À voir, et à revoir.
 
-## [Alabama Monroe](http://www.senscritique.com/film/Alabama_Monroe/8176466?target=_blank)
+## [Alabama Monroe](http://www.senscritique.com/film/Alabama_Monroe/8176466){: target="_blank"}
 
 ![Alabama Monroe](/assets/images/alabama-monroe@2x.jpg){: .image-zoom}
 
@@ -51,7 +51,7 @@ Et mes amis sont unanimes à ce sujet :
 
 ![Alabama Monroe Rating](/assets/images/alabama-monroe-rating.jpg){: .center}
 
-## [I Origins](http://www.senscritique.com/film/I_Origins/10405795?target=_blank)
+## [I Origins](http://www.senscritique.com/film/I_Origins/10405795){: target="_blank"}
 
 ![I Origins](/assets/images/i-origins@2x.jpg){: .image-zoom}
 
@@ -65,7 +65,7 @@ Je n’ai pas envie de vous parler du film. J’ai eu la chance de le voir en ne
 
 Si jamais vous êtes d’humeur à regarder un film marquant, lancez-vous.
 
-## [Les Bêtes du Sud Sauvage](http://www.senscritique.com/film/Les_Betes_du_Sud_Sauvage/396316?target=_blank)
+## [Les Bêtes du Sud Sauvage](http://www.senscritique.com/film/Les_Betes_du_Sud_Sauvage/396316){: target="_blank"}
 
 ![Beasts of the Southern Wild](/assets/images/beasts-southern-wild@2x.jpg){: .image-zoom}
 

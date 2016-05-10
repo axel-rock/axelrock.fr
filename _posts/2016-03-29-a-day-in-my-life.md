@@ -13,7 +13,7 @@ Pour changer, j'ai décidé de filmer ma journée.
 
 <span></span>
 
-Il ne me manque plus qu'un Boosted Board, du talent et une vie de dingue pour être le prochain [Casey Neistat](https://www.youtube.com/user/caseyneistat?target=_blank) 😎
+Il ne me manque plus qu'un Boosted Board, du talent et une vie de dingue pour être le prochain [Casey Neistat](https://www.youtube.com/user/caseyneistat){: target="_blank"} 😎
 
 ____
 

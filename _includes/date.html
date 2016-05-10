@@ -1,0 +1,49 @@
+
+{% assign day = include.date | date: "%-d" %}
+{% if day == "1" %}
+  {% capture sup %}<sup>er</sup>{% endcapture %}
+{% else %}
+  {% capture sup %}{% endcapture %}
+{% endif %}
+
+{% assign m = include.date | date: "%-m" %}
+{% case m %}
+  {% when '1' %}
+    {% capture month %}janvier{% endcapture %}
+    {% capture month_short %}jan.{% endcapture %}
+  {% when '2' %}
+    {% capture month %}février{% endcapture %}
+    {% capture month_short %}fév.{% endcapture %}
+  {% when '3' %}
+    {% capture month %}mars{% endcapture %}
+    {% capture month_short %}mars{% endcapture %}
+  {% when '4' %}
+    {% capture month %}avril{% endcapture %}
+    {% capture month_short %}avril{% endcapture %}
+  {% when '5' %}
+    {% capture month %}mai{% endcapture %}
+    {% capture month_short %}mai{% endcapture %}
+  {% when '6' %}
+    {% capture month %}juin{% endcapture %}
+    {% capture month_short %}juin{% endcapture %}
+  {% when '7' %}
+    {% capture month %}juillet{% endcapture %}
+    {% capture month_short %}juillet{% endcapture %}
+  {% when '8' %}
+    {% capture month %}août{% endcapture %}
+    {% capture month_short %}août{% endcapture %}
+  {% when '9' %}
+    {% capture month %}septembre{% endcapture %}
+    {% capture month_short %}sept.{% endcapture %}
+  {% when '10' %}
+    {% capture month %}octobre{% endcapture %}
+    {% capture month_short %}oct.{% endcapture %}
+  {% when '11' %}
+    {% capture month %}novembre{% endcapture %}
+    {% capture month_short %}nov.{% endcapture %}
+  {% when '12' %}
+    {% capture month %}décembre{% endcapture %}
+    {% capture month_short %}déc.{% endcapture %}
+{% endcase %}
+
+{% capture year %}{{ include.date | date: "%Y" }}{% endcapture %}

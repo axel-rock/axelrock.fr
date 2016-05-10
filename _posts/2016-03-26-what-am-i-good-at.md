@@ -11,7 +11,7 @@ taxonomy:
 
 Il y a une poignée de gens de l’internet que j’admire. Et j’ai trouvé leurs points communs : ils bossent dur, et ils apportent de la valeur aux gens.
 
-Que ce soit [Fibre Tigre](http://axelrock.fr/fr/blog/2016-03-03-merci-fibre-tigre?target=_blank), [Casey Neistat](https://www.youtube.com/watch?v=WxfZkMm3wcg&target=_blank), [Gary Vaynerchuk](https://www.youtube.com/user/GaryVaynerchuk?target=_blank), [Lâm](http://lamhua.com?target=_blank) ou [Seth Godin](http://sethgodin.typepad.com?target=_blank), j’envie tout ces gens-là.
+Que ce soit [Fibre Tigre](http://axelrock.fr/fr/blog/2016-03-03-merci-fibre-tigre){: target="_blank"}, [Casey Neistat](https://www.youtube.com/watch?v=WxfZkMm3wcg&target=_blank), [Gary Vaynerchuk](https://www.youtube.com/user/GaryVaynerchuk){: target="_blank"}, [Lâm](http://lamhua.com){: target="_blank"} ou [Seth Godin](http://sethgodin.typepad.com){: target="_blank"}, j’envie tout ces gens-là.
 
 J’aimerais être un peu plus comme eux. Je ne parle de célébrité. Mais je souhaite qu’un jour, des gens que je ne connais pas puissent dire que je leur ai apporté quelque chose.
 
@@ -27,7 +27,7 @@ Qu’est-ce que je fais mieux que le commun des mortels ? C’est difficile de r
 
 Forcément, comme c’est mon métier, c’est la première chose qui m’est venue à l’esprit.
 
-J’ai alors pensé aux [d](https://twitter.com/Frulko?target=_blank)[é](https://twitter.com/StefanPATRICE?target=_blank)[v](https://twitter.com/viki53?target=_blank)[e](https://twitter.com/aynolor?target=_blank)[l](https://twitter.com/AlexanderFlink?target=_blank)[o](https://twitter.com/JourDePluie?target=_blank)[p](https://twitter.com/VivienCormier?target=_blank)[p](https://twitter.com/EmmanuelDurgoni?target=_blank)[e](https://twitter.com/guillaumeandre?target=_blank)[u](https://twitter.com/QuentinHocde?target=_blank)[r](https://twitter.com/nicolasdnl?target=_blank)[s](https://twitter.com/nicobush?target=_blank) que je connais. Et ils sont très bons. J’ai du mal à imaginer ce que je pourrais leur apprendre.
+J’ai alors pensé aux [d](https://twitter.com/Frulko){: target="_blank"}[é](https://twitter.com/StefanPATRICE){: target="_blank"}[v](https://twitter.com/viki53){: target="_blank"}[e](https://twitter.com/aynolor){: target="_blank"}[l](https://twitter.com/AlexanderFlink){: target="_blank"}[o](https://twitter.com/JourDePluie){: target="_blank"}[p](https://twitter.com/VivienCormier){: target="_blank"}[p](https://twitter.com/EmmanuelDurgoni){: target="_blank"}[e](https://twitter.com/guillaumeandre){: target="_blank"}[u](https://twitter.com/QuentinHocde){: target="_blank"}[r](https://twitter.com/nicolasdnl){: target="_blank"}[s](https://twitter.com/nicobush){: target="_blank"} que je connais. Et ils sont très bons. J’ai du mal à imaginer ce que je pourrais leur apprendre.
 
 Mais c’est là que j’ai repensé à une discussion super intéressante que j’ai eue avec l’un d’entre eux.
 

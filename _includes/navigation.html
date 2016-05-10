@@ -1,12 +1,12 @@
 <nav class="main-nav">
     {% if page.url != "/index.html" %}
-        <a href="{{ site.baseurl }}">Home </a>
+        <a href="{{ site.baseurl }}">Accueil </a>
     {% endif %}
 
     {% if page.url != "/about/" %}
         {% if site.aboutPage %}
-            <a href="{{ site.baseurl }}about">About </a>
+            <a href="{{ site.baseurl }}about">À propos </a>
         {% endif %}
     {% endif %}
-    <a class="cta" href="{{ site.baseurl }}feed.xml">RSS</a>
+    <!-- <a class="icon color-default" href="http://www.google.com/translate?sl=auto&tl=fr&u={{ site.baseurl | uri_escape }}{{ page.url | uri_escape }}"><i class="icon-language"></i>Translate</a> -->
 </nav>
