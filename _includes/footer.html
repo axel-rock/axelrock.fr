@@ -3,12 +3,14 @@
     <ul class="social">
 		{% if site.social.twitter %}
 		<li>
-    		<a href="http://twitter.com/{{ site.social.twitter }}" target="_blank" class="icon color-twitter" title="@{{ site.social.twitter }} sut Twitter"><i class="icon-twitter"></i></a>
+    		<a href="http://twitter.com/{{ site.social.twitter }}" target="_blank" class="icon color-twitter" title="@{{ site.social.twitter }} sur Twitter"><i class="icon-twitter"></i></a>
 		</li>
 		{% endif %}
 		{% if site.social.instagram %}
 		<li>
-			<a href="http://instagram.com/{{ site.social.instagram }}" target="_blank" class="icon color-instagram" title="@{{ site.social.instagram }} sur Instagram"><i class="icon-instagram"></i></a>
+			<a href="http://instagram.com/{{ site.social.instagram }}" target="_blank" title="@{{ site.social.instagram }} sur Instagram">
+				<i class="icon-instagram icon-replaced"><img src="/assets/images/icon-instagram-32.png" srcset="/assets/images/icon-instagram-32@2x.png 2x"></i>
+			</a>
 		</li>
 		{% endif %}
 		{% if site.social.github %}
