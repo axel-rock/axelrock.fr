@@ -7,7 +7,7 @@ taxonomy:
 
 ---
 
-[Hier](http://axelrock.fr/il-parait-que-snapchat-cest-le-futur/), je vous parlais des "influenceurs", ces gens qui m'ont - entre autres - poussé à me remettre à Snapchat. 
+[Hier](/il-parait-que-snapchat-cest-le-futur/), je vous parlais des "influenceurs", ces gens qui m'ont - entre autres - poussé à me remettre à Snapchat. 
 
 Si j'accorde du crédit à certaines personnes, c'est pour une raison vraiment très simple : **elles m'apportent quelque chose**. De la connaissance, de la réflexion, du divertissement...
 
@@ -133,7 +133,7 @@ Je me suis remis à Snapchat en partie grâce à ta chronique sur 404 (l’autre
 
 Normalement comme tous les matins tu vas annoncer ton nombre de mails, et je serais fier de me dire qu’il y a un peu de moi dans ce nombre !
 
--
+---
 
 **Bref, merci pour tout !**
 

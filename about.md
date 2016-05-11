@@ -6,7 +6,7 @@ profile: true
 
 Salut, moi c'est Axel, bidouilleur numérique. D'après mon diplôme de **l'école des Gobelins**, je suis officiellement **Concepteur Réalisateur Multimédia**. Dans les faits, je suis spécialisé dans le développement de sites web et applications en tout genre. Mais je m'intéresse aussi beaucoup à la photo, la vidéo, le design et l'écriture. 
 
-J'habite maintenant à Stockholm et travaille pour [Bannerboy](http://bannerboy.com){: target="_blank"}. Pour voir mon portfolio, rendez-vous sur [rock.bzh](http://rock.bzh).
+J'habite maintenant à Stockholm et travaille pour [Bannerboy](http://bannerboy.com){: target="_blank"}. Pour en savoir plus sur mon job, rendez-vous sur [mon portfolio](http://rock.bzh).
 
 Je suis aussi amateur de voyages et de nouvelles expériences. J'adore la cuisine, Matrix, le Roi Lion et ... pas mal de choses en fait.
 

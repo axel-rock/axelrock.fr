@@ -1,24 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
   <channel>
-    <title>Your New Jekyll Site</title>
-    <description>Blogging about stuffs</description>
+    <title>Axel&#39;s blog</title>
+    <description>Juste un blog</description>
     <link>http://your-blog-url.example.com</link>
     <atom:link href="http://your-blog-url.example.com/feed.xml" rel="self" type="application/rss+xml" />
-    
-      <item>
-        <title>Welcome to Jekyll!</title>
-        
-        
-          <description>&lt;p&gt;You’ll find this post in your &lt;code&gt;_posts&lt;/code&gt; directory - edit this post and re-build (or run with the &lt;code&gt;-w&lt;/code&gt; switch) to see your changes!
-To add new posts, simply add a file in the &lt;code&gt;_posts&lt;/code&gt; directory that follows the convention: YYYY-MM-DD-name-of-post.ext.&lt;/p&gt;
-
-</description>
-        
-        <pubDate>Mon, 09 May 2016 12:18:00 +0200</pubDate>
-        <link>http://your-blog-url.example.com/welcome-to-jekyll/</link>
-        <guid isPermaLink="true">http://your-blog-url.example.com/welcome-to-jekyll/</guid>
-      </item>
     
       <item>
         <title>J&#39;ai réussi !</title>
@@ -42,8 +28,8 @@ To add new posts, simply add a file in the &lt;code&gt;_posts&lt;/code&gt; direc
 </description>
         
         <pubDate>Wed, 30 Mar 2016 22:00:00 +0200</pubDate>
-        <link>http://your-blog-url.example.com/what-i-want-to-do/</link>
-        <guid isPermaLink="true">http://your-blog-url.example.com/what-i-want-to-do/</guid>
+        <link>http://your-blog-url.example.com/ce-que-je-veux-faire/</link>
+        <guid isPermaLink="true">http://your-blog-url.example.com/ce-que-je-veux-faire/</guid>
       </item>
     
       <item>
@@ -94,8 +80,8 @@ To add new posts, simply add a file in the &lt;code&gt;_posts&lt;/code&gt; direc
 </description>
         
         <pubDate>Sat, 26 Mar 2016 22:00:00 +0100</pubDate>
-        <link>http://your-blog-url.example.com/what-am-i-good-at/</link>
-        <guid isPermaLink="true">http://your-blog-url.example.com/what-am-i-good-at/</guid>
+        <link>http://your-blog-url.example.com/je-suis-bon-a-quoi/</link>
+        <guid isPermaLink="true">http://your-blog-url.example.com/je-suis-bon-a-quoi/</guid>
       </item>
     
       <item>
@@ -107,8 +93,8 @@ To add new posts, simply add a file in the &lt;code&gt;_posts&lt;/code&gt; direc
 </description>
         
         <pubDate>Fri, 25 Mar 2016 22:00:00 +0100</pubDate>
-        <link>http://your-blog-url.example.com/valuable-pictures/</link>
-        <guid isPermaLink="true">http://your-blog-url.example.com/valuable-pictures/</guid>
+        <link>http://your-blog-url.example.com/precieuses-photos/</link>
+        <guid isPermaLink="true">http://your-blog-url.example.com/precieuses-photos/</guid>
       </item>
     
       <item>
@@ -133,8 +119,21 @@ To add new posts, simply add a file in the &lt;code&gt;_posts&lt;/code&gt; direc
 </description>
         
         <pubDate>Wed, 23 Mar 2016 22:00:00 +0100</pubDate>
-        <link>http://your-blog-url.example.com/deal-with-stress/</link>
-        <guid isPermaLink="true">http://your-blog-url.example.com/deal-with-stress/</guid>
+        <link>http://your-blog-url.example.com/gerer-le-stress/</link>
+        <guid isPermaLink="true">http://your-blog-url.example.com/gerer-le-stress/</guid>
+      </item>
+    
+      <item>
+        <title>Encore un triste jour</title>
+        
+        
+          <description>&lt;p&gt;&lt;img src=&quot;/assets/images/bruxelles-1.jpg&quot; alt=&quot;Bruxelles 1&quot; class=&quot;image-zoom&quot; /&gt;&lt;/p&gt;
+
+</description>
+        
+        <pubDate>Tue, 22 Mar 2016 22:00:00 +0100</pubDate>
+        <link>http://your-blog-url.example.com/encore-un-triste-jour/</link>
+        <guid isPermaLink="true">http://your-blog-url.example.com/encore-un-triste-jour/</guid>
       </item>
     
   </channel>

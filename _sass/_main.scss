@@ -135,32 +135,28 @@ nav.main-nav {
 
 a, #title {
   text-decoration: none;
-  color: #5badf0;
-  color: #5694f1;
+  color: #046380;
 }
 
 #post-list {
   a:hover, li:hover .dates {
     text-decoration: none;
-    color: #5badf0;
-    color: #5694f1;
+    color: #046380;
   }
 }
 
 #title:hover {
   text-decoration: none;
-  color: #5badf0;
-  color: #5694f1;
+  color: #046380;
 }
 
 a {
   &.prev b, &.next b {
     text-decoration: none;
-    color: #5badf0;
-    color: #5694f1;
+    color: #046380;
   }
   &.cta {
-    background: #5badf0;
+    background: #046380;
     color: #fff;
     margin-left: 12px;
     border-radius: 3px;
@@ -173,7 +169,7 @@ a {
 }
 
 p a {
-  color: #5694f1;
+  color: #046380;
 }
 
 /*Transitions*/
@@ -448,9 +444,9 @@ Post List
   padding: 3px 10px 6px;
   box-shadow: 0 0 0 1px hsla(207, 83%, 80%, 1);
   &:hover {
-    background: #5694f1;
+    background: #046380;
     color: #fff;
-    box-shadow: 0 0 0 1px #5694f1;
+    box-shadow: 0 0 0 1px #046380;
   }
   span {
     position: relative;
@@ -557,6 +553,47 @@ Post List
       right: -3px;
     }
   }
+}
+
+/* Profile */
+
+
+.profile #wrapper {
+  padding: 100px 40px 0px;
+  margin: 0 auto;
+}
+
+.profile #header {
+  border-bottom: 1px solid #eee;
+  margin-bottom: 40px;
+  padding-bottom: 40px;
+  text-align: center;
+  position: relative;
+}
+
+.profile #avatar {
+  display: inline-block;
+  width: 80px;
+  height: 80px;
+  border-radius: 50%;
+  margin-bottom: 20px;
+}
+
+.profile h1 {
+  font-weight: 400;
+  letter-spacing: 0px;
+  font-size: 20px;
+  color: #222;
+}
+
+.profile h2 {
+  font-size: 20px;
+    font-weight: 300;
+    color: #aaa;
+    margin-top: 10px;
+    font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    font-style: normal;
+
 }
 
 /* Archive */
