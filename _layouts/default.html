@@ -6,24 +6,24 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
   <title>{{ site.name }}{% if page.title %} - {{ page.title }}{% endif %}</title>
-  <link rel="shortcut icon" href="{{ site.baseurl }}assets/images/favicon.ico">
-  <link rel="stylesheet" href="{{ site.baseurl }}assets/css/style.css">
-  <link rel="alternate" type="application/rss+xml" title="My Blog" href="{{ site.baseurl }}rss.xml">
+  <link rel="shortcut icon" href="{{ site.url }}{{ site.baseurl }}assets/images/favicon.ico">
+  <link rel="stylesheet" href="{{ site.url }}{{ site.baseurl }}assets/css/style.css">
+  <link rel="alternate" type="application/rss+xml" title="My Blog" href="{{ site.url }}{{ site.baseurl }}rss.xml">
 
   <!-- Twitter Card data -->
   <meta name="twitter:card" content="summary">
   <meta name="twitter:site" content="{{ site.social.twitter }}">
-  <meta name="twitter:description" content="{{ page.content | xml_escape | truncatewords: 90 }}">
+  <meta name="twitter:description" content="{% if page.title %}{{ page.content | xml_escape | truncatewords: 90 }}{% else %}{{ site.description }}{% endif %}">
   <meta name="twitter:creator" content="{{ site.social.twitter }}">
   <meta name="twitter:title" content="{{ site.name }}{% if page.title %} - {{ page.title }}{% endif %}">
-  <meta name="twitter:image:src" content="{{ site.baseurl }}assets/images/{{ page.url }}share.jpg">
+  <meta name="twitter:image:src" content="{{ site.url }}{{ site.baseurl }}assets/images/{% if page.title %}{{ page.url }}{% else %}share{% endif %}.jpg">
 
   <!-- Open Graph data -->
   <meta property="og:title" content="{{ site.name }}{% if page.title %} - {{ page.title }}{% endif %}">
   <meta property="og:type" content="article">
-  <meta property="og:url" content="{{ page.url }}">
-  <meta property="og:description" content="{{ page.content | xml_escape | truncatewords: 90 }}">
-  <meta property="og:image" content="{{ site.baseurl }}assets/images/{{ page.url }}share.jpg">
+  <meta property="og:url" content="{{ site.url }}{{ site.baseurl }}{{ page.url }}">
+  <meta property="og:description" content="{% if page.title %}{{ page.content | xml_escape | truncatewords: 90 }}{% else %}{{ site.description }}{% endif %}">
+  <meta property="og:image" content="{{ site.url }}{{ site.baseurl }}assets/images/{% if page.title %}{{ page.url }}{% else %}share{% endif %}.jpg">
   <meta property="og:site_name" content="{{ site.name }}">
 
   {% if page.highlight %}

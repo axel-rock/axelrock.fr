@@ -8,19 +8,12 @@
 		{% endif %}
 		{% if site.social.instagram %}
 		<li>
-			<a href="http://instagram.com/{{ site.social.instagram }}" target="_blank" title="@{{ site.social.instagram }} sur Instagram">
-				<i class="icon-instagram icon-replaced"><img src="/assets/images/icon-instagram-32.png" srcset="/assets/images/icon-instagram-32@2x.png 2x"></i>
-			</a>
+			<a href="http://instagram.com/{{ site.social.instagram }}" target="_blank" class="icon color-instagram" title="@{{ site.social.instagram }} sur Instagram"><i class="icon-instagram"></i></a>
 		</li>
 		{% endif %}
 		{% if site.social.github %}
 		<li>
 			<a href="http://github.com/{{ site.social.github }}" target="_blank" class="icon color-github" title="@{{ site.social.github }}"><i class="icon-github"></i></a>
-		</li>
-		{% endif %}
-		{% if site.social.codepen %}
-		<li>
-			<a href="http://codepen.com/{{ site.social.codepen }}" target="_blank" class="icon color-default" title="@{{ site.social.codepen }}"><i class="icon-codepen"></i></a>
 		</li>
 		{% endif %}
 		{% if site.social.youtube %}
@@ -33,28 +26,13 @@
 			<a href="http://facebook.com/{{ site.social.facebook }}" target="_blank" class="icon color-facebook" title="@{{ site.social.facebook }}"><i class="icon-facebook"></i></a>
 		</li>
 		{% endif %}
-		{% if site.social.medium %}
-		<li>
-			<a href="http://medium.com/{{ site.social.medium }}" target="_blank" class="icon color-medium" title="@{{ site.social.medium }}"><i class="icon-medium"></i></a>
-		</li>
-		{% endif %}
-		{% if site.social.apple %}
-		<li>
-			<a href="http://apple.com/{{ site.social.apple }}" target="_blank" class="icon color-default" title="@{{ site.social.apple }}"><i class="icon-apple"></i></a>
-		</li>
-		{% endif %}
 		{% if site.social.stackoverflow %}
 		<li>
 			<a href="{{ site.social.stackoverflow }}" target="_blank" class="icon color-stackoverflow" title="@{{ site.social.stackoverflow }}"><i class="icon-stackoverflow"></i></a>
 		</li>
 		{% endif %}
-		{% if site.social.slack %}
 		<li>
-			<a href="http://slack.com/{{ site.social.slack }}" target="_blank" class="icon color-default" title="@{{ site.social.slack }}"><i class="icon-slack"></i></a>
-		</li>
-		{% endif %}
-		<li>
-			<a href="{{ site.baseurl }}feed.xml" target="_blank" class="icon color-rss" ><i class="icon-rss"></i></a>
+			<a href="{{ site.baseurl }}feed.xml" target="_blank" class="icon color-rss" ><i class="icon-rss-squared"></i></a>
 		</li>
     </ul>
 	{% if site.social.mail %}
