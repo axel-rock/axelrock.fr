@@ -23,7 +23,7 @@ J’ai aussi **du mal à faire court**. Mais c’est tellement libérateur de co
 
 Un de mes premiers blogs avait viré au site de critique de films. J’avais peur qu’avec un article par jour, je donne une orientation trop prononcée à la ligne éditoriale. Mais j’ai réussi à **diversifier les sujets**, et j’en suis plutôt fier. Il y a eu des posts sur :
 
-- [les réseaux sociaux](/il-parait-que-snapchat-cest-le-futur)
+- [les réseaux sociaux](/snapchat)
 - [une personne qui m’inspire](/merci-fibre-tigre)
 - [les gens que j’aime](/joyeux-anniversaire)
 - [la musique](/ordre-des-chansons)

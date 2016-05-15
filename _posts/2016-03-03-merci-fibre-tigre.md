@@ -7,7 +7,7 @@ taxonomy:
 
 ---
 
-[Hier](/il-parait-que-snapchat-cest-le-futur/), je vous parlais des "influenceurs", ces gens qui m'ont - entre autres - poussé à me remettre à Snapchat. 
+[Hier](/snapchat/), je vous parlais des "influenceurs", ces gens qui m'ont - entre autres - poussé à me remettre à Snapchat. 
 
 Si j'accorde du crédit à certaines personnes, c'est pour une raison vraiment très simple : **elles m'apportent quelque chose**. De la connaissance, de la réflexion, du divertissement...
 
