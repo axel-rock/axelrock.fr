@@ -7,6 +7,20 @@
     <atom:link href="http://axelrock.fr/feed.xml" rel="self" type="application/rss+xml" />
     
       <item>
+        <title>Un blog de dev</title>
+        
+        <description>&lt;p&gt;&lt;img src=&quot;/assets/images/superdev.jpg&quot; alt=&quot;Superdev Club&quot; class=&quot;image-zoom&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Je vous en parlais plus tôt, mais cette fois c’est officiel !&lt;/p&gt;
+
+&lt;p&gt;J’ai lancé un blog avec du contenu plus technique. Amis développeurs, rendez-vous sur &lt;a href=&quot;http://superdev.club&quot; target=&quot;_blank&quot;&gt;superdev.club&lt;/a&gt;.&lt;/p&gt;
+</description>
+        <pubDate>Mon, 30 May 2016 00:00:00 +0200</pubDate>
+        <link>http://axelrock.fr/un-blog-de-dev/</link>
+        <guid isPermaLink="true">http://axelrock.fr/un-blog-de-dev/</guid>
+      </item>
+    
+      <item>
         <title>Faire des histoires</title>
         
         <description>&lt;p&gt;&lt;img src=&quot;/assets/images/faire-des-histoires.jpg&quot; alt=&quot;Faire des histoires&quot; class=&quot;image-zoom&quot; /&gt;&lt;/p&gt;
@@ -39,7 +53,7 @@
 
 &lt;p&gt;PS : Malgré une absence d’un mois de demi, sachez que j’ai beaucoup travaillé sur &lt;em&gt;mes&lt;/em&gt; blogs dernièrement. J’ai une fois de plus changé le moteur du site. Et je prépare un blog qui parlera de programmation.&lt;/p&gt;
 </description>
-        <pubDate>Sun, 15 May 2016 06:00:00 +0200</pubDate>
+        <pubDate>Sun, 15 May 2016 00:00:00 +0200</pubDate>
         <link>http://axelrock.fr/faire-des-histoires/</link>
         <guid isPermaLink="true">http://axelrock.fr/faire-des-histoires/</guid>
       </item>
@@ -564,79 +578,6 @@ Je n’ai pas peur de faire des choix difficiles. Je me moque de l’avis des ge
         <pubDate>Thu, 24 Mar 2016 22:00:00 +0100</pubDate>
         <link>http://axelrock.fr/religion/</link>
         <guid isPermaLink="true">http://axelrock.fr/religion/</guid>
-      </item>
-    
-      <item>
-        <title>Gérer le stress</title>
-        
-        <description>&lt;p&gt;&lt;img src=&quot;/assets/images/stress@2x.jpg&quot; alt=&quot;Stress&quot; class=&quot;image-zoom&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Cette semaine, je bosse sur un gros projet.&lt;/p&gt;
-
-&lt;p&gt;Sur le plan technique, il est assez éloigné des projets de l’entreprise. Il fait appel à des technologies que je maitrise mal (Node.js), et d’autres que je ne connais pas du tout (Google Cloud Platform).&lt;/p&gt;
-
-&lt;p&gt;J’ai 3 jours et demi pour créer un prototype. Et je suis tout seul.&lt;/p&gt;
-
-&lt;p&gt;Notre client paye pour ce &lt;em&gt;proof of concept&lt;/em&gt;, et s’il est satisfait, il mènera peut-être à un des projets les plus importants pour Bannerboy.&lt;/p&gt;
-
-&lt;h2 id=&quot;je-stresse-un-tout-petit-peu&quot;&gt;Je stresse… un tout petit peu&lt;/h2&gt;
-
-&lt;p&gt;Si je stresse pour ce projet, ce n’est pas parce que la demande est déraisonnable (pourtant, elle l’est !). C’est parce que, par amour du challenge, &lt;strong&gt;j’ai dit que je pouvais le faire&lt;/strong&gt;.&lt;/p&gt;
-
-&lt;p&gt;Pour tenir mes engagements, je donne mon maximum cette semaine. J’estime mon niveau de concentration en journée à plus de 90% :&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;J’arrive en avance pour être déjà en train de coder à 9h.&lt;/li&gt;
-  &lt;li&gt;Je ne lis ni Slack, ni mes mails, ni mes RSS. Je ne me connecte pas sur les réseaux sociaux.&lt;/li&gt;
-  &lt;li&gt;Je choisis l’option la moins chronophage pour mon déjeuner.&lt;/li&gt;
-  &lt;li&gt;Je travaillerai depuis chez moi ce week-end si je n’arrive pas à quelque chose de satisfaisant.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Je me suis accordé quelques minutes de break. Mais la plupart du temps, je tourne plutôt entre 50 et 70% de productivité.&lt;/p&gt;
-
-&lt;p&gt;Je pense que personne ne peut tenir à 100%. Définitivement pas sur plusieurs jours consécutifs. Et ce n’est pas mon objectif.&lt;/p&gt;
-
-&lt;h2 id=&quot;communiquer&quot;&gt;Communiquer&lt;/h2&gt;
-
-&lt;p&gt;En général, je ne suis pas sujet au stress.&lt;/p&gt;
-
-&lt;p&gt;Je considère que je fais bien mon travail. Et comme mes chefs de projet sont compétents, ils prévoient une charge de travail adaptée.&lt;/p&gt;
-
-&lt;p&gt;J’exprime mes doutes en amont quand je considère que je vais avoir du mal à faire ce qui est demandé.&lt;/p&gt;
-
-&lt;p&gt;Cette communication m’évite bien des problèmes. Je laisse à mes chefs de projets le soin de gérer les clients, les deadlines et les estimations pour n’avoir à faire que mon travail.&lt;/p&gt;
-
-&lt;p&gt;Si vous ne pensez pas pouvoir accomplir une tâche, &lt;strong&gt;vous paraîtrez bien plus professionnel en exprimant vos doutes&lt;/strong&gt;. Ça ne sert à rien de se mettre une pression supplémentaire, et risquer de mettre en péril votre projet.&lt;/p&gt;
-
-&lt;p&gt;Évidemment, je ne parle pas pour les glandus. Mais si vous pensez que ce n’est pas dans vos cordes, ou qu’il y a un problème, parlez-en.&lt;/p&gt;
-
-&lt;p&gt;Vous verrez qu’étrangement, c’est à vous que l’on viendra demander des conseils. C’est surtout le cas chez les développeurs : rien n’est impossible pour nous. Mais savoir dire quand ça va (vraiment) être compliqué est une qualité très appréciable en entreprise.&lt;/p&gt;
-
-&lt;p&gt;Mon projet actuel était presque vendu avant que je n’ai mon mot à dire. Si je n’avais pas été aussi intéressé, j’aurais dit à mon chef projet que je trouvais la deadline trop juste, et les inconnues trop grandes. Si j’avais dit ça, il aurait du trouver une solution. Mais c’est son métier.&lt;/p&gt;
-
-&lt;h2 id=&quot;pas-touche--mon-stress&quot;&gt;Pas touche à mon stress&lt;/h2&gt;
-
-&lt;p&gt;Au travail comme en dehors, je suis une règle simple.&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;Peu importe le problème, si il ne concerne pas la santé ou l’intégrité de mes proches, alors il n’est pas fondamentalement grave.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;Hormis ça, le seul stress que je subit, c’est celui que je m’impose.&lt;/p&gt;
-
-&lt;p&gt;Accepter de faire un projet trop ambitieux comme celui là. &lt;a href=&quot;/en-mars-1-article-par-jour&quot;&gt;Me lancer dans des contrats moraux avec moi-même&lt;/a&gt;. Dans tout les cas, ça sera ma faute, pas celle de quelqu’un d’autre.&lt;/p&gt;
-
-&lt;p&gt;Si vous aussi votre travail vous stresse, dites-le à vos supérieurs. Il y a peu de chances qu’on vous vire pour ça. Et si votre job vous stresse, en qu’en plus vous avez peur d’être renvoyé si vous en parlez, alors c’est largement le moment de changer de boite, ou de changer de vie.&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;&lt;strong&gt;À demain.&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;Photo assez représentative par &lt;a href=&quot;https://unsplash.com/punttim&quot;&gt;Tim Gouw&lt;/a&gt;.&lt;/p&gt;
-</description>
-        <pubDate>Wed, 23 Mar 2016 22:00:00 +0100</pubDate>
-        <link>http://axelrock.fr/gerer-le-stress/</link>
-        <guid isPermaLink="true">http://axelrock.fr/gerer-le-stress/</guid>
       </item>
     
   </channel>
