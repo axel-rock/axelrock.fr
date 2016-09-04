@@ -2,8 +2,7 @@
 
 title:  "Frozen Lake"
 date:   2012-03-10 11:41
-taxonomy:
-    tag: [voyage]
+tags: [voyage]
 
 ---
 

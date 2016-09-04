@@ -1,7 +1,7 @@
 ---
 
-title:  "Et c'est reparti"
-date:   2012-10-27 01:02
+title: "Et c'est reparti"
+date: 2012-10-27 01:02
 
 ---
 

@@ -1,13 +1,10 @@
 ---
 
-title:  "Voyage au Japon"
-date:   2016-03-20 22:00
-taxonomy:
-    tag: [dailyblog, dailyblog#20]
+title: "Voyage au Japon"
+image: /images/japan@2x.jpg
+tags: [dailyblog, dailyblog#20]
     
 ---
-
-![Japon](/assets/images/japan@2x.jpg){: .image-zoom}
 
 Il y a quelques mois, je vous montrais [la vidéo de mon voyage au Japon](/souvenirs-du-japon).
 

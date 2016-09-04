@@ -1,13 +1,10 @@
 ---
 
-title:  "Gérer le stress"
-date:   2016-03-23 22:00
-taxonomy:
-    tag: [dailyblog, dailyblog#23]
+title: "Gérer le stress"
+image: /images/stress@2x.jpg
+tags: [dailyblog, dailyblog#23]
     
 ---
-
-![Stress](/assets/images/stress@2x.jpg){: .image-zoom}
 
 Cette semaine, je bosse sur un gros projet.
 

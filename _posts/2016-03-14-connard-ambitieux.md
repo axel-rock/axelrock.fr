@@ -1,13 +1,10 @@
 ---
 
 title: "Je suis un connard ambitieux"
-taxonomy:
-    tag: [dailyblog, dailyblog#14]
+image: /images/moon@2x.jpg
+tags: [dailyblog, dailyblog#14]
 
 ---
-
-
-![moon](/assets/images/moon@2x.jpg){: .image-zoom}
 
 Enfin, je ne pense pas vraiment être un connard. Mais je suis ambitieux, et j'imagine que ça se ressent.
 

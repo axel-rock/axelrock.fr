@@ -1,17 +1,14 @@
 ---
 
-title:  "Récurrence et régularité"
-date:   2013-12-17 12:00
-taxonomy:
-    tag: [internet]
+title: "Récurrence et régularité"
+image: /images/recurrence-et-regularite@2x.jpg
+tags: [internet]
 
 ---
 
 ## La vie et les internets #1
 
 *La vie et les internets* est une série de réflexions subjectives, une prise de recul sur notre vie numérique.
-
-![ma photo du moment](/assets/images/recurrence-et-regularite@2x.jpg){: .image-zoom}
 
 ## Sérendipité
 

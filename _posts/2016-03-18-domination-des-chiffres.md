@@ -1,13 +1,10 @@
 ---
 
 title:  "Domination des chiffres"
-date:   2016-03-18 22:00
-taxonomy:
-    tag: [dailyblog, dailyblog#18]
+image: /images/numbers@2x.jpg
+tags: [dailyblog, dailyblog#18]
     
 ---
-
-![Numbers](/assets/images/numbers@2x.jpg){: .image-zoom}
 
 *Des likes, des followers, des vues, des abonnés, des visites, des notes…*
 

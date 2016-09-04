@@ -1,13 +1,10 @@
 ---
 
 title:  "Joyeux anniversaire"
-date:   2016-03-04 22:00
-taxonomy:
-    tag: [dailyblog, dailyblog#4]
+image: /images/birthday.jpg
+tags: [dailyblog, dailyblog#4]
 
 ---
-
-![Happy birthday](/assets/images/birthday.jpg){: .center .image-zoom}
 
 Quand je regarde ce que j'ai accompli ces dernières années, je suis plutôt fier. Mais ce qui fait de moi quelqu'un de vraiment heureux, ce sont mes proches.
 

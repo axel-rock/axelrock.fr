@@ -2,8 +2,7 @@
 
 title:  "Histoire d'histoires"
 date:   2012-04-26 23:59
-taxonomy:
-    tag: [★]
+tags: [★]
 
 ---
 

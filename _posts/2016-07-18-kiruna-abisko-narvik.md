@@ -1,16 +1,14 @@
 ---
 
-title:  "Road trip : Kiruna, Abisko, Narvik"
-taxonomy:
-    tag: [voyage]
+title:  	"Road trip : Kiruna, Abisko, Narvik"
+image: 	/images/road-trip-nordique-1@2x.jpg
+tags: 		[voyage]
     
 ---
 
 ## Un coup de tête
 
 **Jeudi 7 juillet**, je trouve un billet A/R Stockholm-Kiruna à un prix plutôt correct pour le samedi suivant. Comme ça fait des années que j'ai envie d'aller voir le nord de la Suède en été, je fais chauffer ma carte bleue sans vraiment réfléchir.
-
-![La route](/assets/images/road-trip-nordique-1@2x.jpg){: .image-zoom}
 
 ## Avion et voiture
 
@@ -23,7 +21,7 @@ Vient ensuite le vol. 1h30 dans [un petit Canadair](https://img.planespotters.ne
 La majorité des Suédois que j'ai rencontrés n'y sont jamais allés non plus. Et c'est compréhensible, quand on voit la distance qu'il faut parcourir pour arriver de Stockholm, on imagine facilement qu'ils soit attirés par d'autres destinations à la même portée.
 
 
-![Carte du Grand Nord](/assets/images/carte-grand-nord.png){: .image-zoom}
+![Carte du Grand Nord](/images/carte-grand-nord.png){: .image-zoom}
 
 <i class="center">Stockholm en bleu, Kiruna en rouge</i>
 
@@ -41,7 +39,7 @@ Abisko, c'est une dizaine de maisons, une gare, une auberge de jeunesse, un supe
 
 C'est là que j'ai déposé mes deux acolytes.
 
-![Abisko](/assets/images/road-trip-nordique-2.jpg){: .image-zoom}
+![Abisko](/images/road-trip-nordique-2.jpg){: .image-zoom}
 
 La région est montagneuse, parsemée de cours d'eau et de lacs, du plus petit au plus imposant (70km de long).
 
@@ -53,7 +51,7 @@ Après Abisko, je me suis mis en direction de la Norvège. Il faut moins d'une h
 
 Passé la frontière, on arrive dans des paysages magnifiques. Adieu les grandes pleines entourées de montagnes. Bonjour les routes sinueuses, coincées entre des fjords et la mer.
 
-![Fjord](/assets/images/road-trip-nordique-3.jpg){: .image-zoom}
+![Fjord](/images/road-trip-nordique-3.jpg){: .image-zoom}
 
 La Norvège a définitivement les paysages les plus jolis que j'ai pu voir. Et encore, j'ai été sous les nuages pendant toute la partie norvégienne de ce road-trip.
 
@@ -65,7 +63,7 @@ Au réveil, je fais un petit arrêt par Narvik. J'y passe seulement une petite h
 
 Sur la route du retour, je m'arrête toutes les 10 minutes pour profiter des paysages. Chaque virage est toujours une expérience magnifique. Et les vues complètement différentes que lorsque j'ai emprunté la même route à l'aller.
 
-![Kiruna](/assets/images/road-trip-nordique-4.jpg){: .image-zoom}
+![Kiruna](/images/road-trip-nordique-4.jpg){: .image-zoom}
 
 Quelques kilomètres après la frontière, le soleil pointe le bout de son nez, et m'accompagnera jusqu'à la fin de la journée.
 

@@ -1,63 +1,67 @@
-name:               Axel's blog
-description:        Juste un blog
-author:             'Axel Rock'
-meta_description:   "Axel's blog"
+# Site settings
+title: Axel's blog
+email: rockaxel@gmail.com
+description: Juste un blog
+baseurl: '' # the subpath of your site, e.g. /blog
+url: http://axelrock.fr # the base hostname & protocol for your site
+twitter_username: nineties_panda
+github_username: axel-rock
+instagram_username: axel.rock
 
-permalink:          /:title/
+# Build settings
+markdown: kramdown
+permalink: /:title/
+include:
+  - _pages
+exclude:
+  - Gemfile
+  - Gemfile.lock
+gems:
+  - jekyll-paginate
+  - jekyll/tagging
 
-aboutPage:          true
-
-markdown:           kramdown
-highlighter:        rouge
-
-gems:               [jekyll-paginate]
-
-paginate:           100
-
-baseurl:            /
-domain_name:        'http://axelrock.fr'
-google_analytics:   'UA-57150980-1'
-disqus:             false
-disqus_shortname:   'your-disqus-shortname'
-
-# Details for the RSS feed generator
-url:                'http://axelrock.fr'
-
-social: 
-    twitter:        'nineties_panda'
-    instagram:      'axel.rock'
-    mail:           'axel@rock.bzh'
-    # github:         'axel-rock'
-    # facebook:       'axel.rock.reight'
-    # stackoverflow:  'http://stackoverflow.com/users/2075621/axel-rock'
-    # slack:          'bannerboy.slack.com'
-    # youtube:        'axelrock'
-    # codepen:        'axelrock'
-    # apple:          'axelrock'
-    # medium:         'axelrock'
+# Pagination
+paginate: 12
 
 defaults:
-    -
-        scope:
-            path: "" # empty string for all files
-            type: pages
-        values:
-            layout: default
-    -
-        scope:
-            path: "" # empty string for all files
-            type: posts
-        values:
-            layout: post
-    -
-        scope:
-            path: ""
-            type: drafts
-        values:
-            layout: post
+-
+  scope:
+    path: ""
+    type: pages
+  values:
+    layout: page
+-
+  scope:
+    path: ""
+    type: posts
+  values:
+    layout: post
+    author: axel
+-
+  scope:
+    path: ""
+    type: drafts
+  values:
+    layout: post
 
-# SCSS
-
+# SASS
 sass:
-  sass_dir:         _sass
-  style:            :compressed
+  sass_dir: _sass
+  style:   :compressed
+
+# Tags
+tag_page_layout: tag_page
+tag_page_dir: tag
+tag_permalink_style: pretty
+
+authors:
+  axel:
+    name: Axel Rock
+    display_name: Axel
+    bio: Salut, moi c’est Axel, bidouilleur numérique. D’après mon diplôme de l’école des Gobelins, je suis officiellement Concepteur Réalisateur Multimédia. Dans les faits, je suis spécialisé dans le développement de sites web et applications en tout genre. Mais je m’intéresse aussi beaucoup à la photo, la vidéo, le design et l’écriture.
+    gravatar: /images/avatar.jpg
+    email: rockaxel@gmail.com
+    web: http://axelrock.fr
+    twitter: nineties_panda
+    github: axel-rock
+    instagram: axel.rock

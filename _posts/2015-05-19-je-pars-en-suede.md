@@ -1,9 +1,8 @@
 ---
 
-title:  "Je pars en Suède"
-date:   2015-05-19 11:56
-taxonomy:
-    tag: [voyage]
+title: "Je pars en Suède"
+image: /images/je-pars-en-suede.jpg
+tags: [voyage]
 
 ---
 
@@ -19,4 +18,4 @@ Suivre les aventures de [copains expatriés](http://www.becomeadinosaur.com) n�
 
 Encore un rêve qui se concrétise. J’ai hâte de vous raconter mes aventures quotidiennes.
 
-![Une vieille photo](/assets/images/je-pars-en-suede.jpg "Une vieille photo"){: .center .image-zoom}
+![Une vieille photo](/images/je-pars-en-suede.jpg "Une vieille photo"){: .center .image-zoom}

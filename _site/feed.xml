@@ -1,14 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Axel&#39;s blog</title>
     <description>Juste un blog</description>
-    <link>http://axelrock.fr</link>
-    <atom:link href="http://axelrock.fr/feed.xml" rel="self" type="application/rss+xml" />
+    <link>http://blog.rock.bzh/</link>
+    <atom:link href="http://blog.rock.bzh/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Sun, 04 Sep 2016 18:31:19 +0200</pubDate>
+    <lastBuildDate>Sun, 04 Sep 2016 18:31:19 +0200</lastBuildDate>
+    <generator>Jekyll v3.0.1</generator>
     
       <item>
         <title>Un aperçu de Södermalm</title>
-        
         <description>&lt;h2 id=&quot;des-news&quot;&gt;Des news&lt;/h2&gt;
 
 &lt;p&gt;Petite nouvelle (avant la grande nouvelle dans quelques jours… #teasing) : J’ai décidé de re-re-re-retravailler des choses sur le blog. Je vais &lt;strong&gt;créer des catégories bien distinctes&lt;/strong&gt;. D’un côté, ce &lt;strong&gt;côté perso&lt;/strong&gt; que vous connaissez aujourd’hui, le blog où je raconte ma vie.&lt;/p&gt;
@@ -27,19 +29,33 @@
 
 &lt;iframe width=&quot;640&quot; height=&quot;360&quot; src=&quot;https://www.youtube.com/embed/uZaefQr59-U?rel=0&amp;amp;showinfo=0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
 </description>
-        <pubDate>Sun, 28 Aug 2016 19:00:00 +0200</pubDate>
-        <link>http://axelrock.fr/apercu-de-sodermalm/</link>
-        <guid isPermaLink="true">http://axelrock.fr/apercu-de-sodermalm/</guid>
+        <pubDate>Sun, 28 Aug 2016 00:00:00 +0200</pubDate>
+        
+
+
+
+
+
+
+
+        <readableDate>28 août 2016</readableDate>
+        <link>http://blog.rock.bzh/apercu-de-sodermalm/</link>
+        <guid isPermaLink="true">http://blog.rock.bzh/apercu-de-sodermalm/</guid>
+        
+        <category>news</category>
+        
+        <category>sweden</category>
+        
+        <category>video</category>
+        
+        
       </item>
     
       <item>
         <title>Road trip : Kiruna, Abisko, Narvik</title>
-        
         <description>&lt;h2 id=&quot;un-coup-de-tte&quot;&gt;Un coup de tête&lt;/h2&gt;
 
 &lt;p&gt;&lt;strong&gt;Jeudi 7 juillet&lt;/strong&gt;, je trouve un billet A/R Stockholm-Kiruna à un prix plutôt correct pour le samedi suivant. Comme ça fait des années que j’ai envie d’aller voir le nord de la Suède en été, je fais chauffer ma carte bleue sans vraiment réfléchir.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/images/road-trip-nordique-1@2x.jpg&quot; alt=&quot;La route&quot; class=&quot;image-zoom&quot; /&gt;&lt;/p&gt;
 
 &lt;h2 id=&quot;avion-et-voiture&quot;&gt;Avion et voiture&lt;/h2&gt;
 
@@ -51,7 +67,7 @@
 
 &lt;p&gt;La majorité des Suédois que j’ai rencontrés n’y sont jamais allés non plus. Et c’est compréhensible, quand on voit la distance qu’il faut parcourir pour arriver de Stockholm, on imagine facilement qu’ils soit attirés par d’autres destinations à la même portée.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/assets/images/carte-grand-nord.png&quot; alt=&quot;Carte du Grand Nord&quot; class=&quot;image-zoom&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/images/carte-grand-nord.png&quot; alt=&quot;Carte du Grand Nord&quot; class=&quot;image-zoom&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;i class=&quot;center&quot;&gt;Stockholm en bleu, Kiruna en rouge&lt;/i&gt;&lt;/p&gt;
 
@@ -69,7 +85,7 @@
 
 &lt;p&gt;C’est là que j’ai déposé mes deux acolytes.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/assets/images/road-trip-nordique-2.jpg&quot; alt=&quot;Abisko&quot; class=&quot;image-zoom&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/images/road-trip-nordique-2.jpg&quot; alt=&quot;Abisko&quot; class=&quot;image-zoom&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;La région est montagneuse, parsemée de cours d’eau et de lacs, du plus petit au plus imposant (70km de long).&lt;/p&gt;
 
@@ -81,7 +97,7 @@
 
 &lt;p&gt;Passé la frontière, on arrive dans des paysages magnifiques. Adieu les grandes pleines entourées de montagnes. Bonjour les routes sinueuses, coincées entre des fjords et la mer.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/assets/images/road-trip-nordique-3.jpg&quot; alt=&quot;Fjord&quot; class=&quot;image-zoom&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/images/road-trip-nordique-3.jpg&quot; alt=&quot;Fjord&quot; class=&quot;image-zoom&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;La Norvège a définitivement les paysages les plus jolis que j’ai pu voir. Et encore, j’ai été sous les nuages pendant toute la partie norvégienne de ce road-trip.&lt;/p&gt;
 
@@ -93,7 +109,7 @@
 
 &lt;p&gt;Sur la route du retour, je m’arrête toutes les 10 minutes pour profiter des paysages. Chaque virage est toujours une expérience magnifique. Et les vues complètement différentes que lorsque j’ai emprunté la même route à l’aller.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/assets/images/road-trip-nordique-4.jpg&quot; alt=&quot;Kiruna&quot; class=&quot;image-zoom&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/images/road-trip-nordique-4.jpg&quot; alt=&quot;Kiruna&quot; class=&quot;image-zoom&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Quelques kilomètres après la frontière, le soleil pointe le bout de son nez, et m’accompagnera jusqu’à la fin de la journée.&lt;/p&gt;
 
@@ -110,30 +126,52 @@
 &lt;p&gt;J’ai partagé pas mal de petites vidéos sur Snapchat. J’en ai sauvegardé une bonne partie, mais hormis ça, je n’ai presque pas filmé ou photographié ce week-end. Un peu par manque de matériel, un peu à cause de la météo, un peu par manque de temps, mais aussi un peu par égoïsme. Je veux garder un peu de ça pour moi. Et aucune photo que j’aurais pu prendre ne rendrait vraiment justice à la beauté de ces paysages.&lt;/p&gt;
 </description>
         <pubDate>Mon, 18 Jul 2016 00:00:00 +0200</pubDate>
-        <link>http://axelrock.fr/kiruna-abisko-narvik/</link>
-        <guid isPermaLink="true">http://axelrock.fr/kiruna-abisko-narvik/</guid>
+        
+
+
+
+
+
+
+
+        <readableDate>18 juillet 2016</readableDate>
+        <link>http://blog.rock.bzh/kiruna-abisko-narvik/</link>
+        <guid isPermaLink="true">http://blog.rock.bzh/kiruna-abisko-narvik/</guid>
+        
+        <category>voyage</category>
+        
+        
       </item>
     
       <item>
         <title>Un blog de dev</title>
-        
-        <description>&lt;p&gt;&lt;img src=&quot;/assets/images/superdev.jpg&quot; alt=&quot;Superdev Club&quot; class=&quot;image-zoom&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Je vous en parlais plus tôt, mais cette fois c’est officiel !&lt;/p&gt;
+        <description>&lt;p&gt;Je vous en parlais plus tôt, mais cette fois c’est officiel !&lt;/p&gt;
 
 &lt;p&gt;J’ai lancé un blog avec du contenu plus technique. Amis développeurs, rendez-vous sur &lt;a href=&quot;http://superdev.club&quot; target=&quot;_blank&quot;&gt;superdev.club&lt;/a&gt;.&lt;/p&gt;
 </description>
         <pubDate>Mon, 30 May 2016 00:00:00 +0200</pubDate>
-        <link>http://axelrock.fr/un-blog-de-dev/</link>
-        <guid isPermaLink="true">http://axelrock.fr/un-blog-de-dev/</guid>
+        
+
+
+
+
+
+
+
+        <readableDate>30 mai 2016</readableDate>
+        <link>http://blog.rock.bzh/un-blog-de-dev/</link>
+        <guid isPermaLink="true">http://blog.rock.bzh/un-blog-de-dev/</guid>
+        
+        <category>news</category>
+        
+        <category>internet</category>
+        
+        
       </item>
     
       <item>
         <title>Faire des histoires</title>
-        
-        <description>&lt;p&gt;&lt;img src=&quot;/assets/images/faire-des-histoires.jpg&quot; alt=&quot;Faire des histoires&quot; class=&quot;image-zoom&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;L’autre jour, j’étais assis dans mon appartement. Il était environ 21h, et je n’avais rien d’autre à faire que de laisser vagabonder mon esprit en écoutant Random Access Memories. &lt;a href=&quot;/ordre-des-chansons/&quot;&gt;Encore lui !&lt;/a&gt;&lt;/p&gt;
+        <description>&lt;p&gt;L’autre jour, j’étais assis dans mon appartement. Il était environ 21h, et je n’avais rien d’autre à faire que de laisser vagabonder mon esprit en écoutant Random Access Memories. &lt;a href=&quot;/ordre-des-chansons/&quot;&gt;Encore lui !&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;Et à un moment, j’ai eu une petite révélation. J’ai enfin pu mettre des mots sur un petit vide que j’avais en moi.&lt;/p&gt;
 
@@ -162,16 +200,24 @@
 &lt;p&gt;PS : Malgré une absence d’un mois de demi, sachez que j’ai beaucoup travaillé sur &lt;em&gt;mes&lt;/em&gt; blogs dernièrement. J’ai une fois de plus changé le moteur du site. Et je prépare un blog qui parlera de programmation.&lt;/p&gt;
 </description>
         <pubDate>Sun, 15 May 2016 00:00:00 +0200</pubDate>
-        <link>http://axelrock.fr/faire-des-histoires/</link>
-        <guid isPermaLink="true">http://axelrock.fr/faire-des-histoires/</guid>
+        
+
+
+
+
+
+
+
+        <readableDate>15 mai 2016</readableDate>
+        <link>http://blog.rock.bzh/faire-des-histoires/</link>
+        <guid isPermaLink="true">http://blog.rock.bzh/faire-des-histoires/</guid>
+        
+        
       </item>
     
       <item>
         <title>J&#39;ai réussi !</title>
-        
-        <description>&lt;p&gt;&lt;img src=&quot;/assets/images/done@2x.jpg&quot; alt=&quot;Done&quot; class=&quot;image-zoom&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Un article par jour pendant un mois. C’est le défi que je me suis lancé il y a 30 jours. Et j’ai réussi !&lt;/p&gt;
+        <description>&lt;p&gt;Un article par jour pendant un mois. C’est le défi que je me suis lancé il y a 30 jours. Et j’ai réussi !&lt;/p&gt;
 
 &lt;p&gt;C’était fatigant. J’ai même du faire &lt;a href=&quot;/interruption-du-programme&quot;&gt;une petite pause&lt;/a&gt; à mi-chemin. Mais ça en valait la peine.&lt;/p&gt;
 
@@ -181,7 +227,7 @@
 
 &lt;h2 id=&quot;bilan&quot;&gt;Bilan&lt;/h2&gt;
 
-&lt;p&gt;&lt;img src=&quot;/assets/images/articles@2x.jpg&quot; alt=&quot;Articles&quot; class=&quot;image-zoom&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/images/articles@2x.jpg&quot; alt=&quot;Articles&quot; class=&quot;image-zoom&quot; /&gt;&lt;/p&gt;
 
 &lt;h3 id=&quot;vos-messages&quot;&gt;Vos messages&lt;/h3&gt;
 
@@ -199,8 +245,8 @@
 
 &lt;p&gt;Je vous disais plus tôt que je me contrefiche des likes et des stats en général. Vos messages sont mille fois plus importants à mes yeux. Mais puisque j’ai quelques chiffres sous le coude…&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/assets/images/stats-1@2x.png&quot; alt=&quot;Des stats&quot; class=&quot;image-zoom&quot; /&gt;
-&lt;img src=&quot;/assets/images/stats-2@2x.png&quot; alt=&quot;Encore des stats&quot; class=&quot;image-zoom&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/images/stats-1@2x.png&quot; alt=&quot;Des stats&quot; class=&quot;image-zoom&quot; /&gt;
+&lt;img src=&quot;/images/stats-2@2x.png&quot; alt=&quot;Encore des stats&quot; class=&quot;image-zoom&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Je ne connais pas bien Google Analytics. Je laisserais les pros juger de ces chiffres. Je trouve que ça reflète plus mon activité sur les réseaux sociaux que la qualité de mes articles.&lt;/p&gt;
 
@@ -240,17 +286,29 @@
 
 &lt;p&gt;Photo par &lt;a href=&quot;https://unsplash.com/samscrim&quot;&gt;Sam Scrimshaw&lt;/a&gt;.&lt;/p&gt;
 </description>
-        <pubDate>Thu, 31 Mar 2016 22:00:00 +0200</pubDate>
-        <link>http://axelrock.fr/i-made-it/</link>
-        <guid isPermaLink="true">http://axelrock.fr/i-made-it/</guid>
+        <pubDate>Thu, 31 Mar 2016 00:00:00 +0200</pubDate>
+        
+
+
+
+
+
+
+
+        <readableDate>31 mars 2016</readableDate>
+        <link>http://blog.rock.bzh/i-made-it/</link>
+        <guid isPermaLink="true">http://blog.rock.bzh/i-made-it/</guid>
+        
+        <category>dailyblog</category>
+        
+        <category>dailyblog#31</category>
+        
+        
       </item>
     
       <item>
         <title>Savoir ce que je veux</title>
-        
-        <description>&lt;p&gt;&lt;img src=&quot;/assets/images/stand@2x.jpg&quot; alt=&quot;Don&#39;t just stand there&quot; class=&quot;image-zoom&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Qu’est-ce que j’ai vraiment envie de faire ? Qu’est-ce que j’ai vraiment envie d’avoir ? Qu’est-ce que j’ai vraiment envie de devenir ?&lt;/strong&gt;&lt;/p&gt;
+        <description>&lt;p&gt;&lt;strong&gt;Qu’est-ce que j’ai vraiment envie de faire ? Qu’est-ce que j’ai vraiment envie d’avoir ? Qu’est-ce que j’ai vraiment envie de devenir ?&lt;/strong&gt;&lt;/p&gt;
 
 &lt;p&gt;Au cours d’une discussion plus tôt dans la soirée, j’en suis venu à me poser ces questions. Je ne sais pas si vous, vous avez la réponse, mais j’ai trouvé ma réflexion amusante.&lt;/p&gt;
 
@@ -310,14 +368,28 @@
 
 &lt;p&gt;Photo par &lt;a href=&quot;https://unsplash.com/ugmonk&quot;&gt;Jeff Sheldon&lt;/a&gt;.&lt;/p&gt;
 </description>
-        <pubDate>Wed, 30 Mar 2016 22:00:00 +0200</pubDate>
-        <link>http://axelrock.fr/ce-que-je-veux-faire/</link>
-        <guid isPermaLink="true">http://axelrock.fr/ce-que-je-veux-faire/</guid>
+        <pubDate>Wed, 30 Mar 2016 00:00:00 +0200</pubDate>
+        
+
+
+
+
+
+
+
+        <readableDate>30 mars 2016</readableDate>
+        <link>http://blog.rock.bzh/ce-que-je-veux-faire/</link>
+        <guid isPermaLink="true">http://blog.rock.bzh/ce-que-je-veux-faire/</guid>
+        
+        <category>dailyblog</category>
+        
+        <category>dailyblog#30</category>
+        
+        
       </item>
     
       <item>
         <title>A day in my life</title>
-        
         <description>&lt;p&gt;Pour changer, j’ai décidé de filmer ma journée.&lt;/p&gt;
 
 &lt;iframe width=&quot;520&quot; height=&quot;293&quot; src=&quot;https://www.youtube.com/embed/-cnt7ag65Zc?rel=0&amp;amp;showinfo=0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
@@ -330,17 +402,31 @@
 
 &lt;p&gt;&lt;strong&gt;À demain.&lt;/strong&gt;&lt;/p&gt;
 </description>
-        <pubDate>Tue, 29 Mar 2016 22:00:00 +0200</pubDate>
-        <link>http://axelrock.fr/a-day-in-my-life/</link>
-        <guid isPermaLink="true">http://axelrock.fr/a-day-in-my-life/</guid>
+        <pubDate>Tue, 29 Mar 2016 00:00:00 +0200</pubDate>
+        
+
+
+
+
+
+
+
+        <readableDate>29 mars 2016</readableDate>
+        <link>http://blog.rock.bzh/a-day-in-my-life/</link>
+        <guid isPermaLink="true">http://blog.rock.bzh/a-day-in-my-life/</guid>
+        
+        <category>dailyblog</category>
+        
+        <category>dailyblog#29</category>
+        
+        <category>video</category>
+        
+        
       </item>
     
       <item>
         <title>L&#39;effet de la lumière</title>
-        
-        <description>&lt;p&gt;&lt;img src=&quot;/assets/images/light@2x.jpg&quot; alt=&quot;Light&quot; class=&quot;image-zoom&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Qui dit mars dit printemps. Et qui dit printemps dit lumière.&lt;/p&gt;
+        <description>&lt;p&gt;Qui dit mars dit printemps. Et qui dit printemps dit lumière.&lt;/p&gt;
 
 &lt;p&gt;Sous les hautes latitudes, la lumière se fait discrète en hivers. Toute personne ayant vécu dans les pays nordiques pendant au moins un hiver sait de quoi je parle.&lt;/p&gt;
 
@@ -366,17 +452,29 @@
 
 &lt;p&gt;Photo par &lt;a href=&quot;https://unsplash.com/mayurgala&quot;&gt;Mayur Gala&lt;/a&gt;.&lt;/p&gt;
 </description>
-        <pubDate>Mon, 28 Mar 2016 22:00:00 +0200</pubDate>
-        <link>http://axelrock.fr/light/</link>
-        <guid isPermaLink="true">http://axelrock.fr/light/</guid>
+        <pubDate>Mon, 28 Mar 2016 00:00:00 +0200</pubDate>
+        
+
+
+
+
+
+
+
+        <readableDate>28 mars 2016</readableDate>
+        <link>http://blog.rock.bzh/light/</link>
+        <guid isPermaLink="true">http://blog.rock.bzh/light/</guid>
+        
+        <category>dailyblog</category>
+        
+        <category>dailyblog#28</category>
+        
+        
       </item>
     
       <item>
         <title>Dofus</title>
-        
-        <description>&lt;p&gt;&lt;img src=&quot;/assets/images/dofus@2x.png&quot; alt=&quot;Dofus&quot; class=&quot;image-zoom&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;5 ans de blog perso, mais je n’ai jamais parlé de &lt;a href=&quot;http://www.dofus.com/fr&quot; target=&quot;_blank&quot;&gt;Dofus&lt;/a&gt;. Pourtant, je joue à ce jeu depuis bientôt 9 ans.&lt;/p&gt;
+        <description>&lt;p&gt;5 ans de blog perso, mais je n’ai jamais parlé de &lt;a href=&quot;http://www.dofus.com/fr&quot; target=&quot;_blank&quot;&gt;Dofus&lt;/a&gt;. Pourtant, je joue à ce jeu depuis bientôt 9 ans.&lt;/p&gt;
 
 &lt;p&gt;Si vous n’en avez jamais entendu parler, Dofus est un &lt;a href=&quot;https://youtu.be/HXstRfE9AVU&quot; target=&quot;_blank&quot;&gt;MMORPG&lt;/a&gt; créé par le studio français Ankama Games.&lt;/p&gt;
 
@@ -384,7 +482,7 @@
 
 &lt;p&gt;J’ai longtemps évité de dire que j’y jouais. Je pense qu’il a une image de jeu pour enfant. Mais c’est en fait un jeu très riche, à l’univers très fourni, et qui demande un certain niveau de réflexion.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/assets/images/in-game@2x.jpg&quot; alt=&quot;In Game&quot; class=&quot;image-zoom&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/images/in-game@2x.jpg&quot; alt=&quot;In Game&quot; class=&quot;image-zoom&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Malgré ses quelques défauts, ce jeu à énormément de qualités.&lt;/p&gt;
 
@@ -392,7 +490,7 @@
 
 &lt;p&gt;J’ai une relation particulière avec mon personnage dans ce jeu. Je l’ai créé &lt;strong&gt;il y a un peu plus de 7 ans&lt;/strong&gt;, et je lui ai donné le prénom de ma petite soeur, qui n’avait que 3 ans à l’époque : &lt;strong&gt;Roxann&lt;/strong&gt;.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/assets/images/roxann@2x.png&quot; alt=&quot;Roxann&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/images/roxann@2x.png&quot; alt=&quot;Roxann&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Même si ce n’est qu’un personnage, et que je n’ai jamais été un des meilleurs joueurs, je suis content de ce que j’ai accompli dans ce jeu, ce que j’ai accompli sous ce pseudo. Et si j’aime autant les pandas aujourd’hui, c’est très certainement à cause de ce personnage.&lt;/p&gt;
 
@@ -402,7 +500,7 @@
 
 &lt;p&gt;J’ai commencé à jouer à Dofus au lycée, avec presque toute ma bande d’amis. J’en garde énormément de bons souvenirs.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/assets/images/old-intro@2x.jpg&quot; alt=&quot;Old school&quot; class=&quot;image-zoom&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/images/old-intro@2x.jpg&quot; alt=&quot;Old school&quot; class=&quot;image-zoom&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Forcément, passer presque une décennie sur un jeu en ligne permet de créer une petite communauté. Je n’ai jamais vraiment souhaité rencontrer &lt;a href=&quot;https://fr.wikipedia.org/wiki/Vraie_vie&quot; target=&quot;_blank&quot;&gt;IRL&lt;/a&gt; des gens que j’ai connus en jeu, mais il m’arrive de me connecter juste pour discuter un petit peu avec d’autres joueurs.&lt;/p&gt;
 
@@ -414,17 +512,29 @@
 
 &lt;p&gt;&lt;strong&gt;À demain.&lt;/strong&gt;&lt;/p&gt;
 </description>
-        <pubDate>Sun, 27 Mar 2016 22:00:00 +0200</pubDate>
-        <link>http://axelrock.fr/dofus/</link>
-        <guid isPermaLink="true">http://axelrock.fr/dofus/</guid>
+        <pubDate>Sun, 27 Mar 2016 00:00:00 +0100</pubDate>
+        
+
+
+
+
+
+
+
+        <readableDate>27 mars 2016</readableDate>
+        <link>http://blog.rock.bzh/dofus/</link>
+        <guid isPermaLink="true">http://blog.rock.bzh/dofus/</guid>
+        
+        <category>dailyblog</category>
+        
+        <category>dailyblog#27</category>
+        
+        
       </item>
     
       <item>
         <title>Je suis bon à quoi ?</title>
-        
-        <description>&lt;p&gt;&lt;img src=&quot;/assets/images/craft@2x.jpg&quot; alt=&quot;Craft&quot; class=&quot;image-zoom&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Il y a une poignée de gens de l’internet que j’admire. Et j’ai trouvé leurs points communs : ils bossent dur, et ils apportent de la valeur aux gens.&lt;/p&gt;
+        <description>&lt;p&gt;Il y a une poignée de gens de l’internet que j’admire. Et j’ai trouvé leurs points communs : ils bossent dur, et ils apportent de la valeur aux gens.&lt;/p&gt;
 
 &lt;p&gt;Que ce soit &lt;a href=&quot;/merci-fibre-tigre&quot; target=&quot;_blank&quot;&gt;Fibre Tigre&lt;/a&gt;, &lt;a href=&quot;https://www.youtube.com/watch?v=WxfZkMm3wcg&quot; target=&quot;_blank&quot;&gt;Casey Neistat&lt;/a&gt;, &lt;a href=&quot;https://www.youtube.com/user/GaryVaynerchuk&quot; target=&quot;_blank&quot;&gt;Gary Vaynerchuk&lt;/a&gt;, &lt;a href=&quot;http://lamhua.com&quot; target=&quot;_blank&quot;&gt;Lâm&lt;/a&gt; ou &lt;a href=&quot;http://sethgodin.typepad.com&quot; target=&quot;_blank&quot;&gt;Seth Godin&lt;/a&gt;, j’envie tout ces gens-là.&lt;/p&gt;
 
@@ -487,9 +597,24 @@ Je n’ai pas peur de faire des choix difficiles. Je me moque de l’avis des ge
 
 &lt;p&gt;Photo par &lt;a href=&quot;https://unsplash.com/alexjones&quot;&gt;Alex Jones&lt;/a&gt;.&lt;/p&gt;
 </description>
-        <pubDate>Sat, 26 Mar 2016 22:00:00 +0100</pubDate>
-        <link>http://axelrock.fr/je-suis-bon-a-quoi/</link>
-        <guid isPermaLink="true">http://axelrock.fr/je-suis-bon-a-quoi/</guid>
+        <pubDate>Sat, 26 Mar 2016 00:00:00 +0100</pubDate>
+        
+
+
+
+
+
+
+
+        <readableDate>26 mars 2016</readableDate>
+        <link>http://blog.rock.bzh/je-suis-bon-a-quoi/</link>
+        <guid isPermaLink="true">http://blog.rock.bzh/je-suis-bon-a-quoi/</guid>
+        
+        <category>dailyblog</category>
+        
+        <category>dailyblog#26</category>
+        
+        
       </item>
     
   </channel>

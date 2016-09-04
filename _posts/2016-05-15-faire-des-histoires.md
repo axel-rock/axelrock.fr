@@ -1,10 +1,9 @@
 ---
 
 title:  "Faire des histoires"
+image: 	/images/faire-des-histoires.jpg
     
 ---
-
-![Faire des histoires](/assets/images/faire-des-histoires.jpg){: .image-zoom}
 
 L'autre jour, j'étais assis dans mon appartement. Il était environ 21h, et je n'avais rien d'autre à faire que de laisser vagabonder mon esprit en écoutant Random Access Memories. [Encore lui !](/ordre-des-chansons/)
 

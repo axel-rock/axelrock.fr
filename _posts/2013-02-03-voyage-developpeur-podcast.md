@@ -3,8 +3,7 @@
 title:  "Voyage d'un développeur"
 date:   2013-02-03 12:00
 published: false
-taxonomy:
-    tag: [travel]
+tags: [travel]
 
 ---
 

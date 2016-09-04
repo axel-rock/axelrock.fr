@@ -1,13 +1,12 @@
 ---
 
-title:  "À mi-chemin"
-date:   2016-03-15 22:00
-taxonomy:
-    tag: [dailyblog, dailyblog#15]
+title: "À mi-chemin"
+image: /images/passion@2x.jpg
+tags: [dailyblog, dailyblog#15]
     
 ---
 
-![passion](/assets/images/passion@2x.jpg){: .image-zoom}
+![passion](){: .image-zoom}
 
 Aujourd’hui, on est le 15 mars, ça veut dire que suis à la moitié de [mon challenge](/en-mars-1-article-par-jour). L’occasion pour moi de faire un petit point.
 

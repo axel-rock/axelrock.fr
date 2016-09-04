@@ -1,9 +1,9 @@
 ---
 
-title:  "Un aperçu de Södermalm"
-date:   2016-08-28 19:00
-taxonomy:
-    tag: [news]
+title:  	Un aperçu de Södermalm
+featured: true
+image: 		/images/sodermalm.jpg
+tags: 		[news, sweden, video]
     
 ---
 

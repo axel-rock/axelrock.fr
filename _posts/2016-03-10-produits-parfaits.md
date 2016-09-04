@@ -1,13 +1,10 @@
 ---
 
-title:  "Ces produits parfaits"
-date:   2016-03-10 22:00
-taxonomy:
-    tag: [dailyblog, dailyblog#10]
+title: "Ces produits parfaits"
+image: /images/macbook@2x.jpg
+tags: [dailyblog, dailyblog#10]
 
 ---
-
-![MacBook](/assets/images/macbook@2x.jpg){: .image-zoom}
 
 Je suis un consommateur curieux, minimaliste et esthète : j’aime essayer beaucoup de choses, mais je ne garde que celles qui me séduisent.
 

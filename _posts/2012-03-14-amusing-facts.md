@@ -2,8 +2,7 @@
 
 title:  "Amusing facts"
 date:   2012-03-14 12:00
-taxonomy:
-    tag: [voyage]
+tags: [voyage]
 
 ---
 

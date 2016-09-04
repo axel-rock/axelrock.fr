@@ -1,13 +1,10 @@
 ---
 
 title:  "S’exposer à la critique"
-date:   2016-03-19 22:00
-taxonomy:
-    tag: [dailyblog, dailyblog#19]
+image: /images/criticism@2x.jpg
+tags: [dailyblog, dailyblog#19]
     
 ---
-
-![Criticism](/assets/images/criticism@2x.jpg){: .image-zoom}
 
 Écrire ce blog, et partager des idées très personnelles, c’est un pari risqué. Ça peut plaire à certains, mais en rebuter beaucoup d’autres.
 

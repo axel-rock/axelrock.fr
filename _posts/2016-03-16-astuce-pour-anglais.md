@@ -1,13 +1,10 @@
 ---
 
-title:  "Une astuce pour l’anglais"
-date:   2016-03-16 22:00
-taxonomy:
-    tag: [dailyblog, dailyblog#16]
+title: "Une astuce pour l’anglais"
+image: /images/bridge@2x.jpg
+tags: [dailyblog, dailyblog#16]
     
 ---
-
-![bridge](/assets/images/bridge@2x.jpg){: .image-zoom}
 
 On me dit souvent que j’ai un très bon niveau d’anglais… pour un français.
 

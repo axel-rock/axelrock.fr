@@ -2,8 +2,7 @@
 
 title:  "Nouveau site"
 date:   2016-03-06 22:00
-taxonomy:
-    tag: [dailyblog, dailyblog#6]
+tags: [dailyblog, dailyblog#6]
 
 ---
 

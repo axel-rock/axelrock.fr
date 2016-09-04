@@ -1,9 +1,8 @@
 ---
 
-title:  "Merci Fibre Tigre"
-date:   2016-03-03 22:00
-taxonomy:
-    tag: [dailyblog, dailyblog#3]
+title: "Merci Fibre Tigre"
+image: /images/out-there.jpg
+tags: [dailyblog, dailyblog#3]
 
 ---
 
@@ -70,7 +69,7 @@ Ils ne le savent pas, mais tu as aussi changé leur vie
 ## Merci pour Out There
 
 
-![Out There](/assets/images/out-there.jpg){: .image-zoom}
+![Out There](/images/out-there.jpg){: .image-zoom}
 
 Je n’aime pas jouer sur mobile. Ça doit être un syndrome de développeur qui a toujours un ordi à portée de main. 
 
@@ -90,7 +89,7 @@ Mais j’aime bien les blogs, et c’est notamment sur [le tien](http://fibretig
 
 ## Merci pour cette notification 
 
-![Friend Request](/assets/images/friend-request.jpg){: .center}
+![Friend Request](/images/friend-request.jpg){: .center}
 
 J’écoutais tes podcasts, je te suivais sur les réseaux sociaux comme des milliers de personnes.
 
@@ -123,7 +122,7 @@ Je t’ai pitché mon projet. Et tu as été franc et surtout tu m’as donné d
 
 Le salon a duré deux jours. Beaucoup de gens étaient intéressés par notre concept, mais personne d’autre ne nous a donné de conseils concrets.
 
-![Friend Request](/assets/images/carte-visite.jpg){: .center}
+![Friend Request](/images/carte-visite.jpg){: .center}
 
 ## Merci pour Snapchat
 

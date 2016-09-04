@@ -1,13 +1,10 @@
 ---
 
-title:  "Je veux être..."
-date:   2016-03-09 22:00
-taxonomy:
-    tag: [dailyblog, dailyblog#9]
+title: "Je veux être..."
+image: /images/cabin@2x.jpg
+tags: [dailyblog, dailyblog#9]
 
 ---
-
-![cabin](/assets/images/cabin@2x.jpg){: .image-zoom}
 
 - un citadin new-yorkais.
 - un ermite dans une cabane au bord d’un lac en Laponie.
@@ -37,7 +34,7 @@ ___
 
 ___
 
-![new-york](/assets/images/new-york@2x.jpg){: .image-zoom}
+![new-york](/images/new-york@2x.jpg){: .image-zoom}
 
 Photos de mes autres vies par [Jamie MacPherson](https://unsplash.com/jmacpherson) et [Paweł Bukowski](https://unsplash.com/bukowski).
 

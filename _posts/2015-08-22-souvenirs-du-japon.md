@@ -1,9 +1,9 @@
 ---
 
-title:  "Souvenirs du Japon"
-date:   2015-08-22 12:00
-taxonomy:
-    tag: [voyage, video, ★]
+title: "Souvenirs du Japon"
+featured: true
+image: /images/memories-japan.jpg
+tags: [voyage, video, ★]
 
 ---
 

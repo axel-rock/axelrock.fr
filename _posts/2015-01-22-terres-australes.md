@@ -1,9 +1,8 @@
 ---
 
-title:  "Terres australes"
-date:   2015-01-22 17:30
-taxonomy:
-    tag: [voyage]
+title: "Terres australes"
+image: /images/terres-australes.jpg
+tags: [voyage]
 
 ---
 
@@ -19,7 +18,7 @@ Depuis toutes ces années, j'ai décidé que je ferais tout ce qui est en mon po
 
 Lors de ma dernière expérience professionnelle, un contrat d'apprentissage de deux ans au [Centre de culture scientifique et des techniques industrielles de Cran-Gevrier](http://laturbinesciences.fr), un collègue et ami m'a parlé de l'Antarctique. Il avait travaillé au Centre d'Études biologiques de Chizé, et avait côtoyé de nombreux volontaires au service civique pour les [Terres australes et antarctiques françaises](http://www.taaf.fr). Alors que j'avais les yeux rivés vers le Nord depuis des années, j’ai commencé à envisager cette option sérieusement.
 
-![La lune est blanche](/assets/images/terres-australes.jpg){: .center .image-zoom}
+![La lune est blanche](/images/terres-australes.jpg){: .center .image-zoom}
 
 <p class="center">C'est autour d'un livre des frères Lepage que sont nées mes envies d'Antarctique</p>
 

@@ -1,7 +1,7 @@
 ---
 
 title:  "Ouvrez la parenthèse"
-date:   2014-11-29 18:00
+image: /images/ouvrez-la-parenthese.png
 
 ---
 
@@ -13,7 +13,7 @@ Cette fois-ci, je change ma formule. Pas de promesses, mais une explication sur 
 
 J’écris beaucoup. J’ai toujours un carnet moleskine et un bon stylo sous le coude. Mais c’est surtout à l’appli [Day One](http://dayoneapp.com/) que je raconte le plus ma vie.
 
-![Day One](/assets/images/ouvrez-la-parenthese.png "Au moins une idée importante par jour en bleu"){: .center .image-zoom}
+![Day One](/images/ouvrez-la-parenthese.png "Au moins une idée importante par jour en bleu"){: .center .image-zoom}
 
 
 Mais je n’ai pas la même rigueur quand j’écris pour moi que quand j’écris des choses que je publie.

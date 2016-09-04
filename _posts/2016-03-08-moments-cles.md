@@ -1,13 +1,10 @@
 ---
 
-title:  "Les moments clés"
-date:   2016-03-08 23:00
-taxonomy:
-    tag: [dailyblog, dailyblog#8]
+title: "Les moments clés"
+image: /images/path@2x.jpg
+tags: [dailyblog, dailyblog#8]
 
 ---
-
-![path](/assets/images/path@2x.jpg){: .image-zoom}
 
 > Dessinez-moi une flèche. Très bien, maintenant admettons que cette flèche représente votre vie. Indiquez-y les plus grands tournants, les points les plus marquants.
 

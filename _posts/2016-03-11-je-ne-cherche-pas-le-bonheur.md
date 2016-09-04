@@ -1,13 +1,10 @@
 ---
 
 title:  "Je ne cherche pas le bonheur"
-date:   2016-03-11 22:00
-taxonomy:
-    tag: [dailyblog, dailyblog#11]
+image: /images/waterfall@2x.jpg
+tags: [dailyblog, dailyblog#11]
 
 ---
-
-![waterfall](/assets/images/waterfall@2x.jpg){: .image-zoom}
 
 Cet article devait s’appeler “Je ne crois pas au bonheur”. Mais j’ai trouvé plus juste de dire que je ne le cherche pas.
 

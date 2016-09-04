@@ -1,11 +1,9 @@
 ---
 
 title:  "Philosophie"
-date:   2013-11-27 12:00
+image: /images/philosophy.jpg
 
 ---
-
-![Too young for this shit](/assets/images/philosophy.jpg "Too young for this shit"){: .center .image-zoom}
 
 J'ai étudié la philosophie à l'école à l'âge de 16 ans.
 

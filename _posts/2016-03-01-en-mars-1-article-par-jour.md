@@ -2,8 +2,7 @@
 
 title:  "En mars, un article par jour"
 date:   2016-03-01 18:00
-taxonomy:
-    tag: [dailyblog, dailyblog#1]
+tags: [dailyblog, dailyblog#1]
 
 ---
 

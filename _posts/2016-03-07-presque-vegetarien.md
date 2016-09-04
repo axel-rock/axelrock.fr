@@ -1,9 +1,8 @@
 ---
 
-title:  "Presque végétarien"
-date:   2016-03-07 23:00
-taxonomy:
-    tag: [dailyblog, dailyblog#7]
+title: "Presque végétarien"
+image: /images/food3@2x.jpg
+tags: [dailyblog, dailyblog#7]
 
 ---
 
@@ -15,7 +14,7 @@ Et j’ai appris quelques petites choses. Pour résumer, prendre l’avion et co
 
 Quand j’ai vu les chiffres, j’étais un peu sur le cul et j’ai jugé bon de réagir. Pour les transports, je n’ai pas trouvé de solutions convenables. Pas forcément facile d’éviter l’avion pour un expat’. Mais il y a d’autres choses que peux améliorer.
 
-![food](/assets/images/food1@2x.jpg){: .image-zoom}
+![food](/images/food1@2x.jpg){: .image-zoom}
 
 ## Moins de viande
 
@@ -33,7 +32,7 @@ Mais quand une occasion se présente de manger un bon plat à base de viande, je
 
 Tous les vendredis midi, avec mes collègues, on va manger au resto. Si j’ai envie d’un burger ou d’une pizza avec des tranches de jambon italien, je n’hésite pas un instant.
 
-![food](/assets/images/food2@2x.jpg){: .image-zoom}
+![food](/images/food2@2x.jpg){: .image-zoom}
 
 ## C’est facile
 
@@ -47,7 +46,7 @@ Mon colloc’ (un viandard) et ma famille ont pris ça pour une blague quand je 
 
 J’ai aussi la chance d’avoir beaucoup de collègues végétariens et végétaliens. Ils connaissent pas mal de bonnes adresses. Je dois avouer que ça à un autre avantage : personne ne juge.
 
-![food](/assets/images/food3@2x.jpg){: .image-zoom}
+![food](/images/food3@2x.jpg){: .image-zoom}
 
 ## C’est plutôt fun
 

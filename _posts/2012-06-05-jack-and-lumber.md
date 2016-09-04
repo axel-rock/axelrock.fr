@@ -2,8 +2,7 @@
 
 title:  "Jack & Lumber"
 date:   2012-06-05 21:54
-taxonomy:
-    tag: [video]
+tags: [video]
 
 ---
 

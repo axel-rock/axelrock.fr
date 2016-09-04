@@ -1,13 +1,10 @@
 ---
 
-title:  "Interruption momentanée du programme"
-date:   2016-03-21 22:00
-taxonomy:
-    tag: [dailyblog, dailyblog#21]
+title: "Interruption momentanée du programme"
+image: /images/test-card.jpg
+tags: [dailyblog, dailyblog#21]
     
 ---
-
-![Mire](/assets/images/test-card.jpg){: .image-zoom}
 
 Vous avez peut-être remarqué une baisse de qualité sur le blog ces quatre derniers jours.
 

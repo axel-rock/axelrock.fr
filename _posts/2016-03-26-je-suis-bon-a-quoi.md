@@ -1,13 +1,10 @@
 ---
 
 title:  "Je suis bon à quoi ?"
-date:   2016-03-26 22:00
-taxonomy:
-    tag: [dailyblog, dailyblog#26]
+image:   /images/craft@2x.jpg
+tags: [dailyblog, dailyblog#26]
     
 ---
-
-![Craft](/assets/images/craft@2x.jpg){: .image-zoom}
 
 Il y a une poignée de gens de l’internet que j’admire. Et j’ai trouvé leurs points communs : ils bossent dur, et ils apportent de la valeur aux gens.
 

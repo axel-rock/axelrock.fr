@@ -2,8 +2,7 @@
 
 title:  "Les titres d'articles"
 date:   2015-07-15 02:24
-taxonomy:
-    tag: [internet]
+tags: [internet]
 
 ---
 

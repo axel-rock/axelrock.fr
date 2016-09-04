@@ -1,9 +1,8 @@
 ---
 
 title:  "A day in my life"
-date:   2016-03-29 22:00
-taxonomy:
-    tag: [dailyblog, dailyblog#29]
+image:   /images/a-day-in-my-life.jpg
+tags: [dailyblog, dailyblog#29, video]
     
 ---
 
