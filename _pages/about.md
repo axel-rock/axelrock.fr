@@ -1,7 +1,7 @@
 ---
 title: À propos
 permalink: about/
-image: /images/about.png
+image: /images/about.jpg
 ---
 
 Salut, moi c'est Axel, bidouilleur numérique. D'après mon diplôme de **l'école des Gobelins**, je suis officiellement **Concepteur Réalisateur Multimédia**. Dans les faits, je suis spécialisé dans le développement de sites web et applications en tout genre. Mais je m'intéresse aussi beaucoup à la photo, la vidéo, le design et l'écriture. 

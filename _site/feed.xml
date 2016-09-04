@@ -3,10 +3,10 @@
   <channel>
     <title>Axel&#39;s blog</title>
     <description>Juste un blog</description>
-    <link>http://blog.rock.bzh/</link>
-    <atom:link href="http://blog.rock.bzh/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 04 Sep 2016 18:31:19 +0200</pubDate>
-    <lastBuildDate>Sun, 04 Sep 2016 18:31:19 +0200</lastBuildDate>
+    <link>http://axelrock.fr/</link>
+    <atom:link href="http://axelrock.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Sun, 04 Sep 2016 18:54:30 +0200</pubDate>
+    <lastBuildDate>Sun, 04 Sep 2016 18:54:30 +0200</lastBuildDate>
     <generator>Jekyll v3.0.1</generator>
     
       <item>
@@ -39,8 +39,8 @@
 
 
         <readableDate>28 août 2016</readableDate>
-        <link>http://blog.rock.bzh/apercu-de-sodermalm/</link>
-        <guid isPermaLink="true">http://blog.rock.bzh/apercu-de-sodermalm/</guid>
+        <link>http://axelrock.fr/apercu-de-sodermalm/</link>
+        <guid isPermaLink="true">http://axelrock.fr/apercu-de-sodermalm/</guid>
         
         <category>news</category>
         
@@ -135,8 +135,8 @@
 
 
         <readableDate>18 juillet 2016</readableDate>
-        <link>http://blog.rock.bzh/kiruna-abisko-narvik/</link>
-        <guid isPermaLink="true">http://blog.rock.bzh/kiruna-abisko-narvik/</guid>
+        <link>http://axelrock.fr/kiruna-abisko-narvik/</link>
+        <guid isPermaLink="true">http://axelrock.fr/kiruna-abisko-narvik/</guid>
         
         <category>voyage</category>
         
@@ -159,8 +159,8 @@
 
 
         <readableDate>30 mai 2016</readableDate>
-        <link>http://blog.rock.bzh/un-blog-de-dev/</link>
-        <guid isPermaLink="true">http://blog.rock.bzh/un-blog-de-dev/</guid>
+        <link>http://axelrock.fr/un-blog-de-dev/</link>
+        <guid isPermaLink="true">http://axelrock.fr/un-blog-de-dev/</guid>
         
         <category>news</category>
         
@@ -209,8 +209,8 @@
 
 
         <readableDate>15 mai 2016</readableDate>
-        <link>http://blog.rock.bzh/faire-des-histoires/</link>
-        <guid isPermaLink="true">http://blog.rock.bzh/faire-des-histoires/</guid>
+        <link>http://axelrock.fr/faire-des-histoires/</link>
+        <guid isPermaLink="true">http://axelrock.fr/faire-des-histoires/</guid>
         
         
       </item>
@@ -296,8 +296,8 @@
 
 
         <readableDate>31 mars 2016</readableDate>
-        <link>http://blog.rock.bzh/i-made-it/</link>
-        <guid isPermaLink="true">http://blog.rock.bzh/i-made-it/</guid>
+        <link>http://axelrock.fr/i-made-it/</link>
+        <guid isPermaLink="true">http://axelrock.fr/i-made-it/</guid>
         
         <category>dailyblog</category>
         
@@ -378,8 +378,8 @@
 
 
         <readableDate>30 mars 2016</readableDate>
-        <link>http://blog.rock.bzh/ce-que-je-veux-faire/</link>
-        <guid isPermaLink="true">http://blog.rock.bzh/ce-que-je-veux-faire/</guid>
+        <link>http://axelrock.fr/ce-que-je-veux-faire/</link>
+        <guid isPermaLink="true">http://axelrock.fr/ce-que-je-veux-faire/</guid>
         
         <category>dailyblog</category>
         
@@ -412,8 +412,8 @@
 
 
         <readableDate>29 mars 2016</readableDate>
-        <link>http://blog.rock.bzh/a-day-in-my-life/</link>
-        <guid isPermaLink="true">http://blog.rock.bzh/a-day-in-my-life/</guid>
+        <link>http://axelrock.fr/a-day-in-my-life/</link>
+        <guid isPermaLink="true">http://axelrock.fr/a-day-in-my-life/</guid>
         
         <category>dailyblog</category>
         
@@ -462,8 +462,8 @@
 
 
         <readableDate>28 mars 2016</readableDate>
-        <link>http://blog.rock.bzh/light/</link>
-        <guid isPermaLink="true">http://blog.rock.bzh/light/</guid>
+        <link>http://axelrock.fr/light/</link>
+        <guid isPermaLink="true">http://axelrock.fr/light/</guid>
         
         <category>dailyblog</category>
         
@@ -522,8 +522,8 @@
 
 
         <readableDate>27 mars 2016</readableDate>
-        <link>http://blog.rock.bzh/dofus/</link>
-        <guid isPermaLink="true">http://blog.rock.bzh/dofus/</guid>
+        <link>http://axelrock.fr/dofus/</link>
+        <guid isPermaLink="true">http://axelrock.fr/dofus/</guid>
         
         <category>dailyblog</category>
         
@@ -533,7 +533,7 @@
       </item>
     
       <item>
-        <title>Je suis bon à quoi ?</title>
+        <title>Bon à quoi ?</title>
         <description>&lt;p&gt;Il y a une poignée de gens de l’internet que j’admire. Et j’ai trouvé leurs points communs : ils bossent dur, et ils apportent de la valeur aux gens.&lt;/p&gt;
 
 &lt;p&gt;Que ce soit &lt;a href=&quot;/merci-fibre-tigre&quot; target=&quot;_blank&quot;&gt;Fibre Tigre&lt;/a&gt;, &lt;a href=&quot;https://www.youtube.com/watch?v=WxfZkMm3wcg&quot; target=&quot;_blank&quot;&gt;Casey Neistat&lt;/a&gt;, &lt;a href=&quot;https://www.youtube.com/user/GaryVaynerchuk&quot; target=&quot;_blank&quot;&gt;Gary Vaynerchuk&lt;/a&gt;, &lt;a href=&quot;http://lamhua.com&quot; target=&quot;_blank&quot;&gt;Lâm&lt;/a&gt; ou &lt;a href=&quot;http://sethgodin.typepad.com&quot; target=&quot;_blank&quot;&gt;Seth Godin&lt;/a&gt;, j’envie tout ces gens-là.&lt;/p&gt;
@@ -607,8 +607,8 @@ Je n’ai pas peur de faire des choix difficiles. Je me moque de l’avis des ge
 
 
         <readableDate>26 mars 2016</readableDate>
-        <link>http://blog.rock.bzh/je-suis-bon-a-quoi/</link>
-        <guid isPermaLink="true">http://blog.rock.bzh/je-suis-bon-a-quoi/</guid>
+        <link>http://axelrock.fr/bon-a-quoi/</link>
+        <guid isPermaLink="true">http://axelrock.fr/bon-a-quoi/</guid>
         
         <category>dailyblog</category>
         

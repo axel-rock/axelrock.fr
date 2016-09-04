@@ -2,6 +2,7 @@
 
 title:  "Précieuses photos"
 image:   /images/scotland@2x.jpg
+featured: true
 tags: [dailyblog, dailyblog#25]
     
 ---
