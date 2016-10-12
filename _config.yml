@@ -19,6 +19,7 @@ exclude:
 gems:
   - jekyll-paginate
   - jekyll/tagging
+  - jekyll-seo-tag
 
 # Pagination
 paginate: 12
