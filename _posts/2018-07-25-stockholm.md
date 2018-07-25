@@ -6,6 +6,8 @@ tags: []
 
 ---
 
+Mon ami [Simon](http://simonhermine.fr) va bientôt en visite à Stockholm, et m'a demandé quelques adresses. Même si ça fait bientôt 2 ans que j'ai quitté la ville, j'ai conconcté une petite liste des endroits qui valent le détour.
+
 [Voir la carte](https://drive.google.com/open?id=109QIcqKE074_CYKGtuE-Oqw_sWws-cgW&usp=sharing)
 
 ## Visiter
@@ -91,3 +93,7 @@ La vieille ville. C'est touristique, mais mignon.
 ### Mariatorget / Nytorget
 
 Des quartiers cools de Södermalm, avec quelques parcs pour se poser, peu de voitures, et plein d'options pour manger.
+
+### Tantolunden
+
+Un immense parc, parfait pour les pique-nique.
