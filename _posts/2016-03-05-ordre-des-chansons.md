@@ -26,17 +26,17 @@ Depuis que j’habite en Suède, je n’ai plus de voiture. Je n’écoute donc 
 
 Mais je consomme plus de musique qu’avant, principalement au bureau et dans les transports en commun. Je le fais via Apple Music, ou j’ai créé plein de playlists qui ne contiennent que mes morceaux favoris.
 
-L’autre jour, j’étais dans le bus absorbée par *Fragments of Times* du dernier album de Daft Punk. 
+L’autre jour, j’étais dans le bus absorbée par *Fragments of Times* du dernier album de Daft Punk.
 
-Quand mon téléphone a enchainé avec un artiste différent, ça a complètement cassé l’ambiance. 
+Quand mon téléphone a enchainé avec un artiste différent, ça a complètement cassé l’ambiance.
 
-Inconsciemment, j’étais prêt à écouter *Doin’ It Right*, le morceau suivant dans l'album. C’était comme être coupé au milieu d’une bonne histoire. 
+Inconsciemment, j’étais prêt à écouter *Doin’ It Right*, le morceau suivant dans l'album. C’était comme être coupé au milieu d’une bonne histoire.
 
 ![Random Access Memories](/images/random-access-memories.jpg){: .image-zoom}
 
 ## L'avenir des albums
 
-Je ne connais personne qui achète régulièrement des CD comme je le faisais. 
+Je ne connais personne qui achète régulièrement des CD comme je le faisais.
 
 Si la majorité écoute de la musique dématérialisée, j’imagine que beaucoup de monde doit le faire en utilisant des playlists.
 
