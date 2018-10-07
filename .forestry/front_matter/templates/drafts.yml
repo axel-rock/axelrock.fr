@@ -1,0 +1,10 @@
+---
+label: Drafts
+hide_body: false
+is_partial: false
+fields:
+- name: layout
+  default: post
+  label: Layout
+  type: text
+  hidden: false

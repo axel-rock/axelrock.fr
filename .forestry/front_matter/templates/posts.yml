@@ -1,0 +1,178 @@
+---
+label: Posts
+hide_body: false
+is_partial: false
+fields:
+- name: title
+  default: Reight 1.0
+  label: Title
+  type: text
+  hidden: false
+- name: date
+  default: 2012-01-30 00:00:00 +0000
+  label: Date
+  type: datetime
+  hidden: false
+- name: tags
+  default:
+  - internet
+  label: Tags
+  type: list
+  hidden: false
+- name: image
+  default: "/images/jeux-videos-gratuits.jpg"
+  label: Image
+  type: file
+  hidden: false
+- name: featured
+  default: true
+  label: Featured
+  type: boolean
+  hidden: false
+- name: layout
+  default: review
+  label: Layout
+  type: text
+  hidden: false
+- name: "<!-- featured"
+  default: true -->
+  label: ''
+  type: text
+  hidden: false
+- name: author
+  default: antoine
+  label: Author
+  type: text
+  hidden: false
+- name: review
+  default: 
+  label: Review
+  type: field_group
+  fields:
+  - name: "<!-- name"
+    default: Prizoners | Room 135 -->
+    label: ''
+    type: text
+    hidden: false
+  - name: website
+    default: https://www.prizoners.com/jeux
+    label: Website
+    type: text
+    hidden: false
+  - name: "<!-- summary"
+    default: Un salle complète et équilibrée -->
+    label: ''
+    type: text
+    hidden: false
+  - name: "<!-- location"
+    default: 34 rue des Bergers 75015 Paris -->
+    label: ''
+    type: text
+    hidden: false
+  - name: "<!-- players"
+    default: 3 à 5 joueurs -->
+    label: ''
+    type: text
+    hidden: false
+  - name: "<!-- price"
+    default: 25-30€ par personne -->
+    label: ''
+    type: text
+    hidden: false
+  - name: "<!-- opening"
+    default: 7/7j, 10h-22h -->
+    label: ''
+    type: text
+    hidden: false
+  - name: "<!-- time"
+    default: 60 minutes -->
+    label: ''
+    type: text
+    hidden: false
+  - name: "<!-- record"
+    default: 36' -->
+    label: ''
+    type: text
+    hidden: false
+  hidden: false
+- name: permalink
+  default: "/about"
+  label: Permalink
+  type: text
+  hidden: false
+pages:
+- _posts/file....md
+- _posts/2016-03-20-voyage-au-japon.md
+- _posts/2016-03-03-merci-fibre-tigre.md
+- _posts/2016-08-28-apercu-de-sodermalm.md
+- _posts/2016-03-05-ordre-des-chansons.md
+- _posts/2015-07-12-des-prenoms.md
+- _posts/2013-10-23-have-you-met-ted.md
+- _posts/2016-03-09-je-veux-etre.md
+- _posts/2016-03-19-exposer-a-la-critique.md
+- _posts/2016-03-16-astuce-pour-anglais.md
+- _posts/2012-06-05-jack-and-lumber.md
+- _posts/2018-01-01-2017.md
+- _posts/2013-10-13-wedding.md
+- _posts/2016-03-22-encore-un-triste-jour.md
+- _posts/2016-03-01-en-mars-1-article-par-jour.md
+- _posts/2013-04-13-simple.md
+- _posts/2012-10-15-jeux-videos-gratuits.md
+- _posts/2016-03-31-i-made-it.md
+- _posts/2012-10-27-cest-reparti.md
+- _posts/2012-03-14-amusing-facts.md
+- _posts/2016-03-17-quelques-bons-films.md
+- _posts/2016-05-30-un-blog-de-dev.md
+- _posts/2016-03-24-religion.md
+- _posts/2016-03-04-joyeux-anniversaire.md
+- _posts/2013-11-27-philosophie.md
+- _posts/2012-03-10-frozen-lake.md
+- _posts/2016-03-18-domination-des-chiffres.md
+- _posts/2016-03-10-produits-parfaits.md
+- _posts/2016-05-15-faire-des-histoires.md
+- _posts/2016-03-23-gerer-le-stress.md
+- _posts/2014-04-25-heyme.md
+- _posts/2012-01-30-reight-un-point-zero.md
+- _posts/2016-03-30-ce-que-je-veux-faire.md
+- _posts/2016-03-07-presque-vegetarien.md
+- _posts/2016-03-27-dofus.md
+- _posts/2016-03-25-precieuses-photos.md
+- _posts/2016-03-08-moments-cles.md
+- _posts/2016-03-06-nouveau-site.md
+- _posts/2016-03-02-snapchat.md
+- _posts/2015-05-19-je-pars-en-suede.md
+- _posts/2013-02-04-coup-de-coeur-2012.md
+- _posts/2012-04-26-histoire-d-histoires.md
+- _posts/about.md
+- _posts/2016-08-21-prizoners-room-135.md
+- _posts/2016-03-11-je-ne-cherche-pas-le-bonheur.md
+- _posts/2013-04-21-i-like.md
+- _posts/2016-03-12-balade-a-stockholm.md
+- _posts/2016-03-29-a-day-in-my-life.md
+- _posts/2016-03-28-light.md
+- _posts/2012-07-30-quand-tout-vas-bien.md
+- _posts/2015-12-14-6-mois-en-suede.md
+- _posts/2015-08-22-souvenirs-du-japon.md
+- _posts/2015-01-22-micrometrages.md
+- _posts/2013-12-17-recurrence-et-regularite.md
+- _posts/2013-04-09-trixie-whitley.md
+- _posts/2012-02-05-gravatar.md
+- _posts/2012-02-03-pourquoi-reight.md
+- _posts/2016-11-11-short-term-plans.md
+- _posts/2016-10-13-announcement.md
+- _posts/2016-03-14-connard-ambitieux.md
+- _posts/2017-07-21-chester.md
+- _posts/2015-07-15-titres-articles.md
+- _posts/2016-03-21-interruption-du-programme.md
+- _posts/2012-10-29-fierte-de-dev.md
+- _posts/2016-07-18-kiruna-abisko-narvik.md
+- _posts/2015-01-22-terres-australes.md
+- _posts/2013-04-17-veille.md
+- _posts/2016-03-13-regarder-des-jeux-video.md
+- _posts/2015-06-25-un-mois-en-suede.md
+- _posts/2014-11-29-ouvrez-la-parenthese.md
+- _posts/2016-03-15-a-mi-chemin.md
+- _posts/2016-03-26-bon-a-quoi.md
+- _posts/2017-01-18-coup-de-gueule.md
+- _posts/2016-11-03-norway.md
+- _posts/2016-10-03-retour-en-france.md

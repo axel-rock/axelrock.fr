@@ -1,0 +1,27 @@
+---
+label: Pages
+hide_body: false
+is_partial: false
+fields:
+- name: title
+  default: Page Not Found
+  label: Title
+  type: text
+  hidden: false
+- name: layout
+  default: page
+  label: Layout
+  type: text
+  hidden: false
+- name: permalink
+  default: "/404"
+  label: Permalink
+  type: text
+  hidden: false
+- name: image
+  default: "/images/about.jpg"
+  label: Image
+  type: file
+  hidden: false
+pages:
+- index.html
