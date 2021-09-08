@@ -1,6 +1,6 @@
 ---
 
-title: Scrath Maps Suck
+title: Scratch Maps Suck
 image: /images/scratch-maps.jpg
 tags: []
 
