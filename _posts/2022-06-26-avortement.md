@@ -9,7 +9,7 @@ Ceci n'est pas une histoire drôle, juste un témoignage, quelque chose d'import
 
 ___ 
 
-Il était une fois, un jeune homme amoureux (moi). C'était une relation de la vraie vie - Pas une romance à la Disney avec laquelle on a grandit. Il y avait des hauts, et de bas. Elle voulait un enfant. Et moi, en définitive, j'en voulais aussi. Et je savais qu'elle serait une super maman. Donc on a décidé de se lancer dans cette aventure ensemble.
+Il était une fois, un jeune homme amoureux (moi). C'était une relation de la vraie vie - Pas une romance à la Disney avec laquelle on a grandit. Il y avait des hauts, et des bas. Elle voulait un enfant. Et moi, en définitive, j'en voulais aussi. Et je savais qu'elle serait une super maman. Donc on a décidé de se lancer dans cette aventure ensemble.
 
 Cette histoire ne se termine pas par "et ils vécurent heureux".
 
