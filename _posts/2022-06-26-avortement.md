@@ -91,7 +91,7 @@ Mais pas seulement, c'est quelque chose qui reste dans un coin de l'esprit penda
 
 Si tu es un mec qui lit ça, occupe-toi de ta contraception. Ce n'est pas qu'une question d'avortement. C'est une question de respect et d'égalité. Parles-en ! La contraception n'est pas que l'affaire des femmes.
 
-L'avortement, ce n'est pas la contraception
+L'avortement, ce n'est pas la contraception.
 
 Des dizaines d'années de pillule ne sont pas sans effet sur le corps, et n'empêchent pas les MST (Et, fais-toi tester. C'est gratuit en France. C'est fou le nombre de mecs autour de moi qui ne l'ont jamais fait).
 
