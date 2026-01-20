@@ -1,17 +1,15 @@
 {
   "editor.defaultFormatter": "esbenp.prettier-vscode",
-  "editor.formatOnPaste": false, // required
-  "editor.formatOnType": false, // required
-  "editor.formatOnSave": true, // optional
-  "editor.formatOnSaveMode": "file", // required to format on save
+  "editor.formatOnPaste": false,
+  "editor.formatOnType": false,
+  "editor.formatOnSave": true,
+  "editor.formatOnSaveMode": "file",
   "[typescript]": {
     "editor.defaultFormatter": "esbenp.prettier-vscode"
-  }, // optional but recommended
+  },
   "[svelte]": {
     "editor.defaultFormatter": "svelte.svelte-vscode"
   },
-
-  // i18n-ally
   "i18n-ally.localesPaths": ["src/lib/translations"],
   "i18n-ally.editor.preferEditor": true,
   "i18n-ally.namespace": true,
@@ -19,5 +17,8 @@
   "i18n-ally.keystyle": "nested",
   "i18n-ally.sourceLanguage": "en",
   "i18n-ally.indent": 2,
-  "i18n-ally.tabStyle": "tab"
+  "i18n-ally.tabStyle": "tab",
+  "files.associations": {
+    "*.css": "tailwindcss"
+  }
 }

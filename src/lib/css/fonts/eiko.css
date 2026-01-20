@@ -1,0 +1,83 @@
+/* PP Eiko - Serif
+   https://pangrampangram.com/products/eiko
+   ============================================ */
+
+@font-face {
+  font-family: "Eiko";
+  src: url("/fonts/eiko/PPEiko-Thin.woff2") format("woff2");
+  font-weight: 100;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Eiko";
+  src: url("/fonts/eiko/PPEiko-ThinItalic.woff2") format("woff2");
+  font-weight: 100;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Eiko";
+  src: url("/fonts/eiko/PPEiko-Light.woff2") format("woff2");
+  font-weight: 300;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Eiko";
+  src: url("/fonts/eiko/PPEiko-LightItalic.woff2") format("woff2");
+  font-weight: 300;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Eiko";
+  src: url("/fonts/eiko/PPEiko-Regular.woff2") format("woff2");
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Eiko";
+  src: url("/fonts/eiko/PPEiko-Medium.woff2") format("woff2");
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Eiko";
+  src: url("/fonts/eiko/PPEiko-MediumItalic.woff2") format("woff2");
+  font-weight: 500;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Eiko";
+  src: url("/fonts/eiko/PPEiko-Heavy.woff2") format("woff2");
+  font-weight: 800;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Eiko";
+  src: url("/fonts/eiko/PPEiko-Black.woff2") format("woff2");
+  font-weight: 900;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Eiko";
+  src: url("/fonts/eiko/PPEiko-BlackItalic.woff2") format("woff2");
+  font-weight: 900;
+  font-style: italic;
+  font-display: swap;
+}

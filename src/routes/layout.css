@@ -1,0 +1,26 @@
+@import "tailwindcss";
+
+@import "../lib/css/fonts/montreal.css";
+@import "../lib/css/fonts/eiko.css";
+@import "../lib/css/fonts/frama.css";
+
+@theme {
+  --font-sans: "Montreal", ui-sans-serif, system-ui, sans-serif;
+  --font-serif: "Eiko", ui-serif, Georgia, serif;
+  --font-display: "Frama", ui-sans-serif, system-ui, sans-serif;
+}
+
+:root {
+  color-scheme: light dark;
+  --accent: #ff6b35;
+  background: light-dark(#faf9f7, #1f1f1f);
+  color: light-dark(#333333, #e0e0e0);
+  font-weight: 425;
+  font-size: 16px;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+body {
+  font-size: 1.2em;
+}

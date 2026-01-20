@@ -1,0 +1,138 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-01-20T15:53:03.606Z\n"
+"PO-Revision-Date: 2026-01-20T15:53:03.606Z\n"
+"Last-Translator: \n"
+"Language: en\n"
+"Language-Team: \n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n == 1 ? 0 : 1;\n"
+"Source-Language: en\n"
+"MIME-Version: 1.0\n"
+
+#: src/routes/+layout.svelte
+#: src/routes/+layout.svelte
+#: src/routes/+page.svelte
+msgid "Axel Rock"
+msgstr "Axel Rock"
+
+#: src/routes/+page.svelte
+msgid "Head of AI & Product"
+msgstr "Head of AI & Product"
+
+#: src/routes/+layout.svelte
+#: src/routes/blog/+page.svelte
+msgid "Blog"
+msgstr "Blog"
+
+#: src/routes/blog/+page.svelte
+msgid "Lire la suite"
+msgstr "Lire la suite"
+
+#: src/routes/demo/+page.svelte
+msgid "paraglide"
+msgstr "paraglide"
+
+#: src/routes/demo/paraglide/+page.svelte
+msgid "SvelteKit User"
+msgstr "SvelteKit User"
+
+#: src/routes/demo/paraglide/+page.svelte
+msgid "en"
+msgstr "en"
+
+#: src/routes/demo/paraglide/+page.svelte
+msgid "fr"
+msgstr "fr"
+
+#: src/routes/demo/paraglide/+page.svelte
+msgid "If you use VSCode, install the <0>Sherlock i18n extension</0> for a better i18n experience."
+msgstr "If you use VSCode, install the <0>Sherlock i18n extension</0> for a better i18n experience."
+
+#: src/routes/+page.svelte
+msgid "Currently"
+msgstr "Currently"
+
+#~ msgid ""
+#~ "Building <0>Cobl</0> — AI-powered document generation with flexible\n"
+#~ "guardrails."
+#~ msgstr ""
+#~ "Building <0>Cobl</0> — AI-powered document generation with flexible\n"
+#~ "guardrails."
+
+#: src/routes/+page.svelte
+msgid "Teaching"
+msgstr "Teaching"
+
+#: src/routes/+page.svelte
+msgid "IA Stratégie et Pratique @ ECV Nantes"
+msgstr "IA Stratégie et Pratique @ ECV Nantes"
+
+#: src/routes/+page.svelte
+msgid "Master's program, 2nd year"
+msgstr "Master's program, 2nd year"
+
+#: src/routes/+page.svelte
+msgid "Previously"
+msgstr "Previously"
+
+#: src/routes/+page.svelte
+msgid "Creative developer at Bannerboy, building animated ads for major brands."
+msgstr "Creative developer at Bannerboy, building animated ads for major brands."
+
+#: src/routes/+page.svelte
+msgid "Airbnb"
+msgstr "Airbnb"
+
+#: src/routes/+page.svelte
+msgid "Spotify"
+msgstr "Spotify"
+
+#: src/routes/+page.svelte
+msgid "Google"
+msgstr "Google"
+
+#: src/routes/+page.svelte
+msgid "Netflix"
+msgstr "Netflix"
+
+#: src/routes/+page.svelte
+msgid "Amazon"
+msgstr "Amazon"
+
+#: src/routes/+page.svelte
+msgid "Contact"
+msgstr "Contact"
+
+#: src/routes/+page.svelte
+msgid "Twitter"
+msgstr "Twitter"
+
+#: src/routes/+page.svelte
+msgid "LinkedIn"
+msgstr "LinkedIn"
+
+#: src/routes/+page.svelte
+msgid "GitHub"
+msgstr "GitHub"
+
+#~ msgid "Email"
+#~ msgstr "Email"
+
+#~ msgid "EN"
+#~ msgstr "EN"
+
+#: src/routes/+layout.svelte
+msgid "Creative developer turned product leader."
+msgstr "Creative developer turned product leader."
+
+#: src/routes/+page.svelte
+msgid "Building <0>Cobl</0> — AI-powered document generation with flexible guardrails."
+msgstr "Building <0>Cobl</0> — AI-powered document generation with flexible guardrails."
+
+#: src/routes/+page.svelte
+msgid "Nantes, France"
+msgstr "Nantes, France"

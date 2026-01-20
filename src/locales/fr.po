@@ -1,0 +1,105 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-01-20T18:06:52.813Z\n"
+"PO-Revision-Date: 2026-01-20T18:06:52.813Z\n"
+"Last-Translator: \n"
+"Language: fr\n"
+"Language-Team: \n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n == 1 ? 0 : 1;\n"
+"Source-Language: en\n"
+"MIME-Version: 1.0\n"
+
+#: src/routes/+layout.svelte
+#: src/routes/+layout.svelte
+#: src/routes/+page.svelte
+msgid "Axel Rock"
+msgstr "Axel Rock"
+
+#: src/routes/+layout.svelte
+msgid "Creative developer turned product leader."
+msgstr "Développeur créatif devenu leader produit."
+
+#: src/routes/+layout.svelte
+#: src/routes/blog/+page.svelte
+msgid "Blog"
+msgstr "Blog"
+
+#: src/routes/+page.svelte
+msgid "Head of AI & Product"
+msgstr "Directeur IA & Produit"
+
+#: src/routes/+page.svelte
+msgid "Nantes, France"
+msgstr "Nantes, France"
+
+#: src/routes/+page.svelte
+msgid "Currently"
+msgstr "Actuellement"
+
+#: src/routes/+page.svelte
+msgid "Building <0>Cobl</0> — AI-powered document generation with flexible guardrails."
+msgstr "Je construis <0>Cobl</0> — génération de documents par IA avec des garde-fous flexibles."
+
+#: src/routes/+page.svelte
+msgid "Teaching"
+msgstr "Enseignement"
+
+#: src/routes/+page.svelte
+msgid "IA Stratégie et Pratique @ ECV Nantes"
+msgstr "IA Stratégie et Pratique @ ECV Nantes"
+
+#: src/routes/+page.svelte
+msgid "Master's program, 2nd year"
+msgstr "Master, 2e année"
+
+#: src/routes/+page.svelte
+msgid "Previously"
+msgstr "Précédemment"
+
+#: src/routes/+page.svelte
+msgid "Creative developer at Bannerboy, building animated ads for major brands."
+msgstr "Développeur créatif chez Bannerboy, création de publicités animées pour de grandes marques."
+
+#: src/routes/+page.svelte
+msgid "Airbnb"
+msgstr "Airbnb"
+
+#: src/routes/+page.svelte
+msgid "Spotify"
+msgstr "Spotify"
+
+#: src/routes/+page.svelte
+msgid "Google"
+msgstr "Google"
+
+#: src/routes/+page.svelte
+msgid "Netflix"
+msgstr "Netflix"
+
+#: src/routes/+page.svelte
+msgid "Amazon"
+msgstr "Amazon"
+
+#: src/routes/+page.svelte
+msgid "Contact"
+msgstr "Contact"
+
+#: src/routes/+page.svelte
+msgid "Twitter"
+msgstr "Twitter"
+
+#: src/routes/+page.svelte
+msgid "LinkedIn"
+msgstr "LinkedIn"
+
+#: src/routes/+page.svelte
+msgid "GitHub"
+msgstr "GitHub"
+
+#: src/routes/blog/+page.svelte
+msgid "Lire la suite"
+msgstr "Lire la suite"

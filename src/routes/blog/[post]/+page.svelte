@@ -1,11 +1,23 @@
 <script lang="ts">
-	import type { PageProps } from './$types'
-	import { compile } from 'mdsvex'
+  import { marked } from "marked"
+  import type { PageProps } from "./$types"
 
-	let { data }: PageProps = $props()
+  let { data }: PageProps = $props()
 
-	const { post } = data
+  const html = $derived(marked(data.post.content))
 </script>
 
-{JSON.stringify(post?.data)}
-{@html post?.code}
+<article>
+  <h1>{data.post.title}</h1>
+  <time>{new Date(data.post.date).toLocaleDateString()}</time>
+  {@html html}
+</article>
+
+<style>
+  article {
+    max-width: 70ch;
+    font-family: var(--font-serif);
+    font-weight: 400;
+    margin-inline: auto;
+  }
+</style>

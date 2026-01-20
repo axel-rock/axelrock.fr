@@ -7,3 +7,8 @@ bun.lockb
 
 # Miscellaneous
 /static/
+
+# Generated
+src/locales/.wuchale/
+src/locales/*.js
+.content-collections/

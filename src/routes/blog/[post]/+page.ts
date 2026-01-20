@@ -1,17 +1,22 @@
-import { error } from '@sveltejs/kit'
-import type { PageLoad } from './$types'
-import { compile } from 'mdsvex'
+import { error } from "@sveltejs/kit"
+import { allPosts } from "content-collections"
+import type { PageLoad } from "./$types"
 
-export const load = (async ({ params }) => {
-	try {
-		// const post = await import(`../../../lib/posts/${params.post}.md`)
-		const post = await import(`../../../lib/posts/${params.post}.md?raw`)
+export const load = (({ params }) => {
+  const post = allPosts.find((p) => p.slug === params.post)
 
-		return {
-			post: await compile(post.default)
-			// meta: { ...post.metadata, slug: params.post }
-		}
-	} catch (err) {
-		error(404, err as Error)
-	}
+  if (!post) {
+    error(404, "Post not found")
+  }
+
+  return {
+    post,
+    meta: {
+      title: `${post.title} — Axel Rock`,
+      description: post.content
+        .slice(0, 160)
+        .replace(/[#*_\n]/g, "")
+        .trim(),
+    },
+  }
 }) satisfies PageLoad
