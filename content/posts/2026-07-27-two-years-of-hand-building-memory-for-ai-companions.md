@@ -1,7 +1,7 @@
 ---
 title: Two years of hand-building memory for AI companions
 tags: [ai, memory, agents]
-published: false
+published: true
 ---
 
 I never bought a memory layer. From mid-2024 to now I hand-coded the whole thing: retrieval, embeddings, reranking, rolling profiles, context-window assembly, proactive follow-ups. Three products, one continuous line of thinking:

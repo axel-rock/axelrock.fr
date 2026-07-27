@@ -1,7 +1,7 @@
 ---
 title: "When the bot goes nuts: anatomy of an LLM runaway and the minimal cure"
 tags: [ai, llm, agents, war-story]
-published: false
+published: true
 ---
 
 I run an AI companion on WhatsApp called Ama. In July 2026 she went nuts twice in two days, on the same thread. Mine, luckily. The first blast was 43 WhatsApp messages. The second was one good sentence followed by seven bubbles of the single word "Brighton." repeated about 4,000 times.
