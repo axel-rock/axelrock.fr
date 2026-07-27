@@ -15,13 +15,14 @@ msgstr ""
 
 #: src/routes/+layout.svelte
 #: src/routes/+layout.svelte
+#: src/routes/+layout.svelte
 #: src/routes/+page.svelte
 msgid "Axel Rock"
 msgstr "Axel Rock"
 
 #: src/routes/+page.svelte
-msgid "Head of AI & Product"
-msgstr "Head of AI & Product"
+msgid "CTO of Cobl"
+msgstr "CTO of Cobl"
 
 #: src/routes/+layout.svelte
 #: src/routes/blog/+page.svelte
@@ -31,26 +32,6 @@ msgstr "Blog"
 #: src/routes/blog/+page.svelte
 msgid "Lire la suite"
 msgstr "Lire la suite"
-
-#: src/routes/demo/+page.svelte
-msgid "paraglide"
-msgstr "paraglide"
-
-#: src/routes/demo/paraglide/+page.svelte
-msgid "SvelteKit User"
-msgstr "SvelteKit User"
-
-#: src/routes/demo/paraglide/+page.svelte
-msgid "en"
-msgstr "en"
-
-#: src/routes/demo/paraglide/+page.svelte
-msgid "fr"
-msgstr "fr"
-
-#: src/routes/demo/paraglide/+page.svelte
-msgid "If you use VSCode, install the <0>Sherlock i18n extension</0> for a better i18n experience."
-msgstr "If you use VSCode, install the <0>Sherlock i18n extension</0> for a better i18n experience."
 
 #: src/routes/+page.svelte
 msgid "Currently"

@@ -15,6 +15,7 @@ msgstr ""
 
 #: src/routes/+layout.svelte
 #: src/routes/+layout.svelte
+#: src/routes/+layout.svelte
 #: src/routes/+page.svelte
 msgid "Axel Rock"
 msgstr "Axel Rock"
@@ -29,8 +30,8 @@ msgid "Blog"
 msgstr "Blog"
 
 #: src/routes/+page.svelte
-msgid "Head of AI & Product"
-msgstr "Directeur IA & Produit"
+msgid "CTO of Cobl"
+msgstr "CTO de Cobl"
 
 #: src/routes/+page.svelte
 msgid "Nantes, France"
