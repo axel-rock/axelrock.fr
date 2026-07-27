@@ -119,6 +119,10 @@
     line-height: 1.6;
   }
 
+  p + p {
+    margin-top: 0.75em;
+  }
+
   .current,
   .writing {
     a {
