@@ -1,7 +1,17 @@
+<script lang="ts">
+  import type { PageProps } from "./$types"
+
+  let { data }: PageProps = $props()
+</script>
+
+<svelte:head>
+  {@html data.jsonLdScript}
+</svelte:head>
+
 <main>
   <section class="hero">
     <h1>Axel Rock</h1>
-    <h2>Head of AI & Product</h2>
+    <h2>CTO of Cobl</h2>
     <p class="location">Nantes, France</p>
   </section>
 

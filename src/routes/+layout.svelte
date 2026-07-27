@@ -10,17 +10,19 @@
   const description = $derived(
     page.data?.meta?.description || "Creative developer turned product leader.",
   )
+  const canonical = $derived(`https://axelrock.fr${page.url.pathname}`)
 </script>
 
 <svelte:head>
   <title>{title}</title>
   <meta name="description" content={description} />
+  <link rel="canonical" href={canonical} />
 
   <!-- Open Graph -->
   <meta property="og:title" content={title} />
   <meta property="og:description" content={description} />
   <meta property="og:type" content="website" />
-  <meta property="og:url" content="https://axelrock.com" />
+  <meta property="og:url" content={canonical} />
 
   <!-- Twitter -->
   <meta name="twitter:card" content="summary" />
@@ -29,6 +31,12 @@
   <meta name="twitter:description" content={description} />
 
   <link rel="icon" href={favicon} />
+  <link
+    rel="alternate"
+    type="application/rss+xml"
+    title="Axel Rock"
+    href="https://axelrock.fr/rss.xml"
+  />
 </svelte:head>
 
 {#if dev}
