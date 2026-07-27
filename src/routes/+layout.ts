@@ -4,7 +4,7 @@ import { loadLocale } from "wuchale/load-utils"
 import { locales } from "../locales/data.js"
 import "../locales/main.loader.svelte.js"
 
-export async function load() {
+export async function load({ data }: { data: { lang: string } }) {
   if (browser) {
     // Default to first locale on client - server already set the correct one
     const lang = document.documentElement.lang
@@ -12,4 +12,5 @@ export async function load() {
       await loadLocale(lang)
     }
   }
+  return data
 }

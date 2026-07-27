@@ -12,7 +12,7 @@ export const load = (({ params }) => {
   return {
     post,
     meta: {
-      title: `${post.title} — Axel Rock`,
+      title: `${post.title} | Axel Rock`,
       description: post.content
         .slice(0, 160)
         .replace(/[#*_\n]/g, "")

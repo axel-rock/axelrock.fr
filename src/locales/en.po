@@ -29,9 +29,8 @@ msgstr "CTO of Cobl"
 msgid "Blog"
 msgstr "Blog"
 
-#: src/routes/blog/+page.svelte
-msgid "Lire la suite"
-msgstr "Lire la suite"
+#~ msgid "Lire la suite"
+#~ msgstr "Lire la suite"
 
 #: src/routes/+page.svelte
 msgid "Currently"
@@ -146,3 +145,15 @@ msgid ""
 msgstr ""
 "Day to day, that means agent orchestration, LLM evals, and memory systems, all running in\n"
 "production."
+
+#: src/routes/blog/+page.svelte
+msgid "← Axel Rock"
+msgstr "← Axel Rock"
+
+#: src/routes/blog/+page.svelte
+msgid "Nothing published yet."
+msgstr "Nothing published yet."
+
+#: src/routes/blog/[post]/+page.svelte
+msgid "← Blog"
+msgstr "← Blog"

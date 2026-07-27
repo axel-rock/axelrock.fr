@@ -100,9 +100,8 @@ msgstr "LinkedIn"
 msgid "GitHub"
 msgstr "GitHub"
 
-#: src/routes/blog/+page.svelte
-msgid "Lire la suite"
-msgstr "Lire la suite"
+#~ msgid "Lire la suite"
+#~ msgstr "Lire la suite"
 
 #~ msgid "Building <0>Cobl</0>: AI agents that write business documents (proposals, RFP responses, market studies) with flexible guardrails."
 #~ msgstr "Je construis <0>Cobl</0> : des agents IA qui rédigent des documents d'entreprise (propositions commerciales, réponses aux appels d'offres, études de marché) avec des garde-fous flexibles."
@@ -122,10 +121,22 @@ msgstr "Des notes sur les agents IA, les évals et la création de produits. <0>
 msgid ""
 "Building <0>Cobl</0>: AI agents that write business documents\n"
 "(proposals, RFP responses, market studies) with flexible guardrails."
-msgstr ""
+msgstr "Je construis <0>Cobl</0> : des agents IA qui rédigent des documents d'entreprise (propositions commerciales, réponses aux appels d'offres, études de marché) avec des garde-fous flexibles."
 
 #: src/routes/+page.svelte
 msgid ""
 "Day to day, that means agent orchestration, LLM evals, and memory systems, all running in\n"
 "production."
-msgstr ""
+msgstr "Au quotidien : orchestration d'agents, évaluation de LLM et systèmes de mémoire, le tout en production."
+
+#: src/routes/blog/+page.svelte
+msgid "← Axel Rock"
+msgstr "← Axel Rock"
+
+#: src/routes/blog/+page.svelte
+msgid "Nothing published yet."
+msgstr "Rien de publié pour le moment."
+
+#: src/routes/blog/[post]/+page.svelte
+msgid "← Blog"
+msgstr "← Blog"
