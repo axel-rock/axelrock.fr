@@ -3,7 +3,7 @@ import { allPosts } from "content-collections"
 import type { PageLoad } from "./$types"
 
 export const load = (({ params }) => {
-  const post = allPosts.find((p) => p.slug === params.post)
+  const post = allPosts.find((p) => p.slug === params.post && p.published)
 
   if (!post) {
     error(404, "Post not found")
