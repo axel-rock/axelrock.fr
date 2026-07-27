@@ -30,9 +30,9 @@ export const load: PageLoad = () => {
   return {
     jsonLdScript: `<script type="application/ld+json">${personJsonLd}</script>`,
     meta: {
-      title: "Axel Rock, CTO of Cobl",
+      title: "Axel Rock, CTO of Cobl | AI engineer in Nantes",
       description:
-        "Creative developer turned product leader. Building Cobl, teaching AI at ECV Nantes.",
+        "Axel Rock, CTO of Cobl in Nantes. Building AI agents for business documents, LLM evals and memory systems in production, and teaching AI at ECV Nantes.",
     },
   }
 }

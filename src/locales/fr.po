@@ -41,9 +41,8 @@ msgstr "Nantes, France"
 msgid "Currently"
 msgstr "Actuellement"
 
-#: src/routes/+page.svelte
-msgid "Building <0>Cobl</0> — AI-powered document generation with flexible guardrails."
-msgstr "Je construis <0>Cobl</0> — génération de documents par IA avec des garde-fous flexibles."
+#~ msgid "Building <0>Cobl</0> — AI-powered document generation with flexible guardrails."
+#~ msgstr "Je construis <0>Cobl</0> — génération de documents par IA avec des garde-fous flexibles."
 
 #: src/routes/+page.svelte
 msgid "Teaching"
@@ -104,3 +103,29 @@ msgstr "GitHub"
 #: src/routes/blog/+page.svelte
 msgid "Lire la suite"
 msgstr "Lire la suite"
+
+#~ msgid "Building <0>Cobl</0>: AI agents that write business documents (proposals, RFP responses, market studies) with flexible guardrails."
+#~ msgstr "Je construis <0>Cobl</0> : des agents IA qui rédigent des documents d'entreprise (propositions commerciales, réponses aux appels d'offres, études de marché) avec des garde-fous flexibles."
+
+#~ msgid "Day to day, that means agent orchestration, LLM evals, and memory systems, all running in production."
+#~ msgstr "Au quotidien : orchestration d'agents, évaluation de LLM et systèmes de mémoire, le tout en production."
+
+#: src/routes/+page.svelte
+msgid "Writing"
+msgstr "Écrits"
+
+#: src/routes/+page.svelte
+msgid "Notes on AI agents, evals, and building products. <0>Read the blog</0>."
+msgstr "Des notes sur les agents IA, les évals et la création de produits. <0>Lire le blog</0>."
+
+#: src/routes/+page.svelte
+msgid ""
+"Building <0>Cobl</0>: AI agents that write business documents\n"
+"(proposals, RFP responses, market studies) with flexible guardrails."
+msgstr ""
+
+#: src/routes/+page.svelte
+msgid ""
+"Day to day, that means agent orchestration, LLM evals, and memory systems, all running in\n"
+"production."
+msgstr ""

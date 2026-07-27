@@ -110,10 +110,39 @@ msgstr "GitHub"
 msgid "Creative developer turned product leader."
 msgstr "Creative developer turned product leader."
 
-#: src/routes/+page.svelte
-msgid "Building <0>Cobl</0> — AI-powered document generation with flexible guardrails."
-msgstr "Building <0>Cobl</0> — AI-powered document generation with flexible guardrails."
+#~ msgid "Building <0>Cobl</0> — AI-powered document generation with flexible guardrails."
+#~ msgstr "Building <0>Cobl</0> — AI-powered document generation with flexible guardrails."
 
 #: src/routes/+page.svelte
 msgid "Nantes, France"
 msgstr "Nantes, France"
+
+#~ msgid "Building <0>Cobl</0>: AI agents that write business documents (proposals, RFP responses, market studies) with flexible guardrails."
+#~ msgstr "Building <0>Cobl</0>: AI agents that write business documents (proposals, RFP responses, market studies) with flexible guardrails."
+
+#~ msgid "Day to day, that means agent orchestration, LLM evals, and memory systems, all running in production."
+#~ msgstr "Day to day, that means agent orchestration, LLM evals, and memory systems, all running in production."
+
+#: src/routes/+page.svelte
+msgid "Writing"
+msgstr "Writing"
+
+#: src/routes/+page.svelte
+msgid "Notes on AI agents, evals, and building products. <0>Read the blog</0>."
+msgstr "Notes on AI agents, evals, and building products. <0>Read the blog</0>."
+
+#: src/routes/+page.svelte
+msgid ""
+"Building <0>Cobl</0>: AI agents that write business documents\n"
+"(proposals, RFP responses, market studies) with flexible guardrails."
+msgstr ""
+"Building <0>Cobl</0>: AI agents that write business documents\n"
+"(proposals, RFP responses, market studies) with flexible guardrails."
+
+#: src/routes/+page.svelte
+msgid ""
+"Day to day, that means agent orchestration, LLM evals, and memory systems, all running in\n"
+"production."
+msgstr ""
+"Day to day, that means agent orchestration, LLM evals, and memory systems, all running in\n"
+"production."

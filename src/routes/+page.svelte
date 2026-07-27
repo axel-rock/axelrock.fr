@@ -18,7 +18,19 @@
   <section class="current">
     <h3>Currently</h3>
     <p>
-      Building <a href="https://cobl.ai">Cobl</a> — AI-powered document generation with flexible guardrails.
+      Building <a href="https://cobl.ai">Cobl</a>: AI agents that write business documents
+      (proposals, RFP responses, market studies) with flexible guardrails.
+    </p>
+    <p>
+      Day to day, that means agent orchestration, LLM evals, and memory systems, all running in
+      production.
+    </p>
+  </section>
+
+  <section class="writing">
+    <h3>Writing</h3>
+    <p>
+      Notes on AI agents, evals, and building products. <a href="/blog">Read the blog</a>.
     </p>
   </section>
 
@@ -107,7 +119,8 @@
     line-height: 1.6;
   }
 
-  .current {
+  .current,
+  .writing {
     a {
       color: var(--accent);
       text-decoration: none;
