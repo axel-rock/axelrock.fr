@@ -8,6 +8,7 @@
   --font-sans: "Montreal", ui-sans-serif, system-ui, sans-serif;
   --font-serif: "Eiko", ui-serif, Georgia, serif;
   --font-display: "Frama", ui-sans-serif, system-ui, sans-serif;
+  --font-text: "Montreal", ui-sans-serif, system-ui, sans-serif;
 }
 
 :root {

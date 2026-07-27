@@ -76,9 +76,10 @@
   /* Prose styles for rendered markdown. Tailwind preflight removes all
      element defaults, so everything must be explicit. */
   .prose {
-    font-family: var(--font-serif);
-    font-weight: 400;
+    font-family: var(--font-text);
+    font-weight: 450;
     line-height: 1.7;
+    letter-spacing: normal;
   }
 
   .prose :global(p) {
@@ -86,6 +87,7 @@
   }
 
   .prose :global(h2) {
+    font-family: var(--font-serif);
     font-size: 1.5rem;
     font-weight: 400;
     line-height: 1.3;
@@ -93,6 +95,7 @@
   }
 
   .prose :global(h3) {
+    font-family: var(--font-serif);
     font-size: 1.1875rem;
     font-weight: 500;
     line-height: 1.35;
@@ -193,7 +196,7 @@
   }
 
   .prose :global(strong) {
-    font-weight: 600;
+    font-weight: 500;
   }
 
   .prose :global(img) {
