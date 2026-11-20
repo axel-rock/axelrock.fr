@@ -55,7 +55,7 @@
   <section class="contact">
     <h3>Contact</h3>
     <nav>
-      <a href="https://twitter.com/axlrck">Twitter</a>
+      <a href="https://x.com/axelrock">Twitter</a>
       <a href="https://linkedin.com/in/axelrock">LinkedIn</a>
       <a href="https://github.com/axel-rock">GitHub</a>
     </nav>

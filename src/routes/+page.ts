@@ -21,7 +21,7 @@ const personJsonLd = JSON.stringify({
   sameAs: [
     "https://linkedin.com/in/axelrock",
     "https://github.com/axel-rock",
-    "https://twitter.com/axlrck",
+    "https://x.com/axelrock",
   ],
   knowsAbout: ["AI agents", "LLM evals", "autonomous RFP generation", "AI memory systems"],
 })
